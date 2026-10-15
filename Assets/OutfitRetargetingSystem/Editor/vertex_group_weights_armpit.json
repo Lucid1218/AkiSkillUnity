@@ -1,0 +1,3127 @@
+{
+  "object_name": "Body.Template",
+  "vertex_group_name": "MF_Armpit",
+  "vertex_count": 15781,
+  "weights": [
+    {
+      "vertex_index": 0,
+      "weight": 0.008108
+    },
+    {
+      "vertex_index": 57,
+      "weight": 0.991825
+    },
+    {
+      "vertex_index": 58,
+      "weight": 0.385549
+    },
+    {
+      "vertex_index": 59,
+      "weight": 0.975065
+    },
+    {
+      "vertex_index": 60,
+      "weight": 0.971866
+    },
+    {
+      "vertex_index": 61,
+      "weight": 0.205544
+    },
+    {
+      "vertex_index": 62,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 63,
+      "weight": 2e-06
+    },
+    {
+      "vertex_index": 76,
+      "weight": 0.877247
+    },
+    {
+      "vertex_index": 77,
+      "weight": 0.02712
+    },
+    {
+      "vertex_index": 78,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 79,
+      "weight": 0.509127
+    },
+    {
+      "vertex_index": 80,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 85,
+      "weight": 0.087179
+    },
+    {
+      "vertex_index": 89,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 90,
+      "weight": 0.112193
+    },
+    {
+      "vertex_index": 91,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 92,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 93,
+      "weight": 0.124636
+    },
+    {
+      "vertex_index": 98,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 103,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 104,
+      "weight": 0.108497
+    },
+    {
+      "vertex_index": 106,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 107,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 111,
+      "weight": 0.8971
+    },
+    {
+      "vertex_index": 112,
+      "weight": 0.060401
+    },
+    {
+      "vertex_index": 113,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 116,
+      "weight": 0.990251
+    },
+    {
+      "vertex_index": 122,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 123,
+      "weight": 0.102493
+    },
+    {
+      "vertex_index": 124,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 125,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 128,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 129,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 130,
+      "weight": 0.214663
+    },
+    {
+      "vertex_index": 131,
+      "weight": 0.543684
+    },
+    {
+      "vertex_index": 135,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 137,
+      "weight": 0.034249
+    },
+    {
+      "vertex_index": 141,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 142,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 143,
+      "weight": 0.03771
+    },
+    {
+      "vertex_index": 144,
+      "weight": 0.324678
+    },
+    {
+      "vertex_index": 151,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 292,
+      "weight": 0.181392
+    },
+    {
+      "vertex_index": 322,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 359,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 361,
+      "weight": 0.993564
+    },
+    {
+      "vertex_index": 362,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 364,
+      "weight": 0.992555
+    },
+    {
+      "vertex_index": 365,
+      "weight": 0.07197
+    },
+    {
+      "vertex_index": 366,
+      "weight": 0.987144
+    },
+    {
+      "vertex_index": 392,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 394,
+      "weight": 0.81263
+    },
+    {
+      "vertex_index": 398,
+      "weight": 0.001154
+    },
+    {
+      "vertex_index": 414,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 429,
+      "weight": 0.331099
+    },
+    {
+      "vertex_index": 436,
+      "weight": 0.240748
+    },
+    {
+      "vertex_index": 437,
+      "weight": 0.000665
+    },
+    {
+      "vertex_index": 448,
+      "weight": 0.000904
+    },
+    {
+      "vertex_index": 453,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 455,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 458,
+      "weight": 0.998939
+    },
+    {
+      "vertex_index": 462,
+      "weight": 0.426746
+    },
+    {
+      "vertex_index": 463,
+      "weight": 0.943573
+    },
+    {
+      "vertex_index": 466,
+      "weight": 0.999999
+    },
+    {
+      "vertex_index": 467,
+      "weight": 0.99967
+    },
+    {
+      "vertex_index": 468,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 469,
+      "weight": 0.003393
+    },
+    {
+      "vertex_index": 472,
+      "weight": 0.865265
+    },
+    {
+      "vertex_index": 474,
+      "weight": 0.008312
+    },
+    {
+      "vertex_index": 478,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 480,
+      "weight": 0.100217
+    },
+    {
+      "vertex_index": 483,
+      "weight": 0.104961
+    },
+    {
+      "vertex_index": 484,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 489,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 491,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 492,
+      "weight": 0.999633
+    },
+    {
+      "vertex_index": 493,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 498,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 499,
+      "weight": 0.000123
+    },
+    {
+      "vertex_index": 500,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 502,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 503,
+      "weight": 0.595721
+    },
+    {
+      "vertex_index": 504,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 506,
+      "weight": 0.258222
+    },
+    {
+      "vertex_index": 508,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 514,
+      "weight": 0.824
+    },
+    {
+      "vertex_index": 520,
+      "weight": 0.563413
+    },
+    {
+      "vertex_index": 521,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 522,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 523,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 528,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 531,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 533,
+      "weight": 0.959258
+    },
+    {
+      "vertex_index": 539,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 540,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 543,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 544,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 545,
+      "weight": 0.194812
+    },
+    {
+      "vertex_index": 546,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 548,
+      "weight": 0.994048
+    },
+    {
+      "vertex_index": 556,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 557,
+      "weight": 0.090167
+    },
+    {
+      "vertex_index": 559,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 560,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 561,
+      "weight": 0.109046
+    },
+    {
+      "vertex_index": 562,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 563,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 564,
+      "weight": 0.213185
+    },
+    {
+      "vertex_index": 574,
+      "weight": 0.007059
+    },
+    {
+      "vertex_index": 579,
+      "weight": 0.792867
+    },
+    {
+      "vertex_index": 580,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 581,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 599,
+      "weight": 0.612502
+    },
+    {
+      "vertex_index": 690,
+      "weight": 0.179296
+    },
+    {
+      "vertex_index": 692,
+      "weight": 0.409293
+    },
+    {
+      "vertex_index": 704,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 706,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 707,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 710,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 711,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 715,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 718,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 720,
+      "weight": 0.999634
+    },
+    {
+      "vertex_index": 742,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 743,
+      "weight": 0.066267
+    },
+    {
+      "vertex_index": 769,
+      "weight": 0.225206
+    },
+    {
+      "vertex_index": 913,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 923,
+      "weight": 0.955503
+    },
+    {
+      "vertex_index": 924,
+      "weight": 0.063448
+    },
+    {
+      "vertex_index": 927,
+      "weight": 0.090338
+    },
+    {
+      "vertex_index": 932,
+      "weight": 0.476424
+    },
+    {
+      "vertex_index": 941,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 942,
+      "weight": 0.988851
+    },
+    {
+      "vertex_index": 960,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 968,
+      "weight": 0.002985
+    },
+    {
+      "vertex_index": 983,
+      "weight": 0.667262
+    },
+    {
+      "vertex_index": 986,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 988,
+      "weight": 0.976834
+    },
+    {
+      "vertex_index": 989,
+      "weight": 0.671999
+    },
+    {
+      "vertex_index": 999,
+      "weight": 0.968671
+    },
+    {
+      "vertex_index": 1004,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 1007,
+      "weight": 0.191716
+    },
+    {
+      "vertex_index": 1010,
+      "weight": 0.003421
+    },
+    {
+      "vertex_index": 1012,
+      "weight": 0.001296
+    },
+    {
+      "vertex_index": 1015,
+      "weight": 0.999997
+    },
+    {
+      "vertex_index": 1016,
+      "weight": 0.999232
+    },
+    {
+      "vertex_index": 1019,
+      "weight": 0.001386
+    },
+    {
+      "vertex_index": 1027,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 1029,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 1030,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 1031,
+      "weight": 0.996609
+    },
+    {
+      "vertex_index": 1032,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 1034,
+      "weight": 0.993843
+    },
+    {
+      "vertex_index": 1035,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 1036,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 1045,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 1047,
+      "weight": 0.999067
+    },
+    {
+      "vertex_index": 1048,
+      "weight": 0.999982
+    },
+    {
+      "vertex_index": 1053,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 1056,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 1057,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 1059,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 1070,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3257,
+      "weight": 0.008108
+    },
+    {
+      "vertex_index": 3315,
+      "weight": 0.991825
+    },
+    {
+      "vertex_index": 3316,
+      "weight": 0.385549
+    },
+    {
+      "vertex_index": 3317,
+      "weight": 0.975065
+    },
+    {
+      "vertex_index": 3318,
+      "weight": 0.971866
+    },
+    {
+      "vertex_index": 3319,
+      "weight": 0.205544
+    },
+    {
+      "vertex_index": 3320,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3321,
+      "weight": 2e-06
+    },
+    {
+      "vertex_index": 3334,
+      "weight": 0.877247
+    },
+    {
+      "vertex_index": 3335,
+      "weight": 0.02712
+    },
+    {
+      "vertex_index": 3336,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3337,
+      "weight": 0.509127
+    },
+    {
+      "vertex_index": 3338,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3343,
+      "weight": 0.087179
+    },
+    {
+      "vertex_index": 3347,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3348,
+      "weight": 0.112193
+    },
+    {
+      "vertex_index": 3349,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3350,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3351,
+      "weight": 0.124636
+    },
+    {
+      "vertex_index": 3356,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3361,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3362,
+      "weight": 0.108497
+    },
+    {
+      "vertex_index": 3364,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3365,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3369,
+      "weight": 0.8971
+    },
+    {
+      "vertex_index": 3370,
+      "weight": 0.060401
+    },
+    {
+      "vertex_index": 3371,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3374,
+      "weight": 0.990251
+    },
+    {
+      "vertex_index": 3380,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3381,
+      "weight": 0.102493
+    },
+    {
+      "vertex_index": 3382,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3383,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3386,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3387,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3388,
+      "weight": 0.214663
+    },
+    {
+      "vertex_index": 3389,
+      "weight": 0.543684
+    },
+    {
+      "vertex_index": 3393,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3395,
+      "weight": 0.034249
+    },
+    {
+      "vertex_index": 3399,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3400,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3401,
+      "weight": 0.03771
+    },
+    {
+      "vertex_index": 3402,
+      "weight": 0.324678
+    },
+    {
+      "vertex_index": 3409,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3552,
+      "weight": 0.181392
+    },
+    {
+      "vertex_index": 3582,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3620,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3622,
+      "weight": 0.992555
+    },
+    {
+      "vertex_index": 3623,
+      "weight": 0.07197
+    },
+    {
+      "vertex_index": 3624,
+      "weight": 0.987144
+    },
+    {
+      "vertex_index": 3650,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3652,
+      "weight": 0.81263
+    },
+    {
+      "vertex_index": 3656,
+      "weight": 0.001154
+    },
+    {
+      "vertex_index": 3672,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3687,
+      "weight": 0.331099
+    },
+    {
+      "vertex_index": 3694,
+      "weight": 0.240748
+    },
+    {
+      "vertex_index": 3695,
+      "weight": 0.000665
+    },
+    {
+      "vertex_index": 3706,
+      "weight": 0.000904
+    },
+    {
+      "vertex_index": 3711,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3713,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3716,
+      "weight": 0.998939
+    },
+    {
+      "vertex_index": 3720,
+      "weight": 0.426746
+    },
+    {
+      "vertex_index": 3721,
+      "weight": 0.943573
+    },
+    {
+      "vertex_index": 3724,
+      "weight": 0.999999
+    },
+    {
+      "vertex_index": 3725,
+      "weight": 0.99967
+    },
+    {
+      "vertex_index": 3726,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3727,
+      "weight": 0.003393
+    },
+    {
+      "vertex_index": 3730,
+      "weight": 0.865265
+    },
+    {
+      "vertex_index": 3732,
+      "weight": 0.008312
+    },
+    {
+      "vertex_index": 3736,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3738,
+      "weight": 0.100217
+    },
+    {
+      "vertex_index": 3741,
+      "weight": 0.104961
+    },
+    {
+      "vertex_index": 3742,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3747,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3749,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3750,
+      "weight": 0.999633
+    },
+    {
+      "vertex_index": 3751,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3756,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3757,
+      "weight": 0.000123
+    },
+    {
+      "vertex_index": 3758,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3760,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3761,
+      "weight": 0.595721
+    },
+    {
+      "vertex_index": 3762,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3764,
+      "weight": 0.258222
+    },
+    {
+      "vertex_index": 3766,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3772,
+      "weight": 0.824
+    },
+    {
+      "vertex_index": 3778,
+      "weight": 0.563413
+    },
+    {
+      "vertex_index": 3779,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3780,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3781,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3786,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3789,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3791,
+      "weight": 0.959258
+    },
+    {
+      "vertex_index": 3797,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3798,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3801,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3802,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3803,
+      "weight": 0.194812
+    },
+    {
+      "vertex_index": 3804,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3806,
+      "weight": 0.994048
+    },
+    {
+      "vertex_index": 3814,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3815,
+      "weight": 0.090167
+    },
+    {
+      "vertex_index": 3817,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3818,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3819,
+      "weight": 0.109046
+    },
+    {
+      "vertex_index": 3820,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3821,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3822,
+      "weight": 0.213185
+    },
+    {
+      "vertex_index": 3832,
+      "weight": 0.007059
+    },
+    {
+      "vertex_index": 3837,
+      "weight": 0.792867
+    },
+    {
+      "vertex_index": 3838,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3839,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3857,
+      "weight": 0.612502
+    },
+    {
+      "vertex_index": 3949,
+      "weight": 0.179296
+    },
+    {
+      "vertex_index": 3951,
+      "weight": 0.409293
+    },
+    {
+      "vertex_index": 3963,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3965,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3966,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3969,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 3970,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3974,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3977,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 3979,
+      "weight": 0.999634
+    },
+    {
+      "vertex_index": 4002,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 4003,
+      "weight": 0.066267
+    },
+    {
+      "vertex_index": 4030,
+      "weight": 0.225206
+    },
+    {
+      "vertex_index": 4174,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 4184,
+      "weight": 0.955503
+    },
+    {
+      "vertex_index": 4185,
+      "weight": 0.996592
+    },
+    {
+      "vertex_index": 4186,
+      "weight": 0.063448
+    },
+    {
+      "vertex_index": 4189,
+      "weight": 0.090338
+    },
+    {
+      "vertex_index": 4193,
+      "weight": 0.476424
+    },
+    {
+      "vertex_index": 4202,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 4203,
+      "weight": 0.988851
+    },
+    {
+      "vertex_index": 4221,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 4229,
+      "weight": 0.002985
+    },
+    {
+      "vertex_index": 4245,
+      "weight": 0.667262
+    },
+    {
+      "vertex_index": 4248,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 4250,
+      "weight": 0.976834
+    },
+    {
+      "vertex_index": 4251,
+      "weight": 0.671999
+    },
+    {
+      "vertex_index": 4261,
+      "weight": 0.968671
+    },
+    {
+      "vertex_index": 4266,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 4269,
+      "weight": 0.191716
+    },
+    {
+      "vertex_index": 4272,
+      "weight": 0.003421
+    },
+    {
+      "vertex_index": 4274,
+      "weight": 0.001296
+    },
+    {
+      "vertex_index": 4277,
+      "weight": 0.999997
+    },
+    {
+      "vertex_index": 4278,
+      "weight": 0.999232
+    },
+    {
+      "vertex_index": 4281,
+      "weight": 0.001386
+    },
+    {
+      "vertex_index": 4289,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 4291,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 4292,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 4293,
+      "weight": 0.996609
+    },
+    {
+      "vertex_index": 4294,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 4296,
+      "weight": 0.993843
+    },
+    {
+      "vertex_index": 4297,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 4298,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 4307,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 4309,
+      "weight": 0.999067
+    },
+    {
+      "vertex_index": 4310,
+      "weight": 0.999982
+    },
+    {
+      "vertex_index": 4315,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 4318,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 4319,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 4321,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 4332,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 7856,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 7859,
+      "weight": 0.989821
+    },
+    {
+      "vertex_index": 7865,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 7871,
+      "weight": 0.812449
+    },
+    {
+      "vertex_index": 7875,
+      "weight": 0.129858
+    },
+    {
+      "vertex_index": 7877,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 7878,
+      "weight": 0.326398
+    },
+    {
+      "vertex_index": 7888,
+      "weight": 0.001767
+    },
+    {
+      "vertex_index": 7889,
+      "weight": 0.992102
+    },
+    {
+      "vertex_index": 7890,
+      "weight": 0.999232
+    },
+    {
+      "vertex_index": 7891,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 7892,
+      "weight": 0.993976
+    },
+    {
+      "vertex_index": 7896,
+      "weight": 0.239931
+    },
+    {
+      "vertex_index": 7897,
+      "weight": 0.792788
+    },
+    {
+      "vertex_index": 7899,
+      "weight": 3e-05
+    },
+    {
+      "vertex_index": 7904,
+      "weight": 0.084595
+    },
+    {
+      "vertex_index": 7906,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 7907,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 7908,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 7909,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 7910,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 7924,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 7927,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 7929,
+      "weight": 0.976195
+    },
+    {
+      "vertex_index": 7930,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 7931,
+      "weight": 0.272091
+    },
+    {
+      "vertex_index": 7934,
+      "weight": 0.572326
+    },
+    {
+      "vertex_index": 7935,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 7936,
+      "weight": 0.021316
+    },
+    {
+      "vertex_index": 7950,
+      "weight": 0.237583
+    },
+    {
+      "vertex_index": 7953,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 7966,
+      "weight": 0.991404
+    },
+    {
+      "vertex_index": 7967,
+      "weight": 0.987865
+    },
+    {
+      "vertex_index": 7969,
+      "weight": 0.99935
+    },
+    {
+      "vertex_index": 7972,
+      "weight": 0.994828
+    },
+    {
+      "vertex_index": 7973,
+      "weight": 0.088004
+    },
+    {
+      "vertex_index": 7974,
+      "weight": 0.983718
+    },
+    {
+      "vertex_index": 7975,
+      "weight": 0.759562
+    },
+    {
+      "vertex_index": 7976,
+      "weight": 0.229031
+    },
+    {
+      "vertex_index": 7977,
+      "weight": 0.985143
+    },
+    {
+      "vertex_index": 8186,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8190,
+      "weight": 2.6e-05
+    },
+    {
+      "vertex_index": 8197,
+      "weight": 0.998174
+    },
+    {
+      "vertex_index": 8198,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8206,
+      "weight": 0.043489
+    },
+    {
+      "vertex_index": 8213,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8214,
+      "weight": 0.998452
+    },
+    {
+      "vertex_index": 8215,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8216,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8217,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8218,
+      "weight": 0.999509
+    },
+    {
+      "vertex_index": 8219,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8236,
+      "weight": 0.912993
+    },
+    {
+      "vertex_index": 8237,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8239,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8240,
+      "weight": 0.588905
+    },
+    {
+      "vertex_index": 8241,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8242,
+      "weight": 0.323843
+    },
+    {
+      "vertex_index": 8243,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8245,
+      "weight": 0.99874
+    },
+    {
+      "vertex_index": 8248,
+      "weight": 0.003209
+    },
+    {
+      "vertex_index": 8249,
+      "weight": 0.201308
+    },
+    {
+      "vertex_index": 8250,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 8251,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8252,
+      "weight": 0.717978
+    },
+    {
+      "vertex_index": 8253,
+      "weight": 0.579934
+    },
+    {
+      "vertex_index": 8255,
+      "weight": 0.00288
+    },
+    {
+      "vertex_index": 8257,
+      "weight": 0.968947
+    },
+    {
+      "vertex_index": 8262,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8264,
+      "weight": 0.99822
+    },
+    {
+      "vertex_index": 8266,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 8268,
+      "weight": 0.24467
+    },
+    {
+      "vertex_index": 8272,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8273,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 8274,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8281,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8285,
+      "weight": 0.333069
+    },
+    {
+      "vertex_index": 8286,
+      "weight": 0.303553
+    },
+    {
+      "vertex_index": 8292,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8293,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8297,
+      "weight": 0.183715
+    },
+    {
+      "vertex_index": 8302,
+      "weight": 0.002082
+    },
+    {
+      "vertex_index": 8304,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8306,
+      "weight": 0.99662
+    },
+    {
+      "vertex_index": 8310,
+      "weight": 0.000161
+    },
+    {
+      "vertex_index": 8351,
+      "weight": 0.350664
+    },
+    {
+      "vertex_index": 8352,
+      "weight": 0.967942
+    },
+    {
+      "vertex_index": 8353,
+      "weight": 0.977134
+    },
+    {
+      "vertex_index": 8354,
+      "weight": 0.955813
+    },
+    {
+      "vertex_index": 8355,
+      "weight": 0.993643
+    },
+    {
+      "vertex_index": 8356,
+      "weight": 0.855349
+    },
+    {
+      "vertex_index": 8357,
+      "weight": 0.998905
+    },
+    {
+      "vertex_index": 8358,
+      "weight": 0.971128
+    },
+    {
+      "vertex_index": 8359,
+      "weight": 0.997313
+    },
+    {
+      "vertex_index": 8368,
+      "weight": 0.978698
+    },
+    {
+      "vertex_index": 8369,
+      "weight": 0.36991
+    },
+    {
+      "vertex_index": 8372,
+      "weight": 0.002444
+    },
+    {
+      "vertex_index": 8608,
+      "weight": 0.191283
+    },
+    {
+      "vertex_index": 8645,
+      "weight": 1.7e-05
+    },
+    {
+      "vertex_index": 8648,
+      "weight": 1e-06
+    },
+    {
+      "vertex_index": 8738,
+      "weight": 1.2e-05
+    },
+    {
+      "vertex_index": 8739,
+      "weight": 0.837211
+    },
+    {
+      "vertex_index": 8740,
+      "weight": 0.001558
+    },
+    {
+      "vertex_index": 8741,
+      "weight": 0.849283
+    },
+    {
+      "vertex_index": 8745,
+      "weight": 0.998116
+    },
+    {
+      "vertex_index": 8746,
+      "weight": 0.994149
+    },
+    {
+      "vertex_index": 8750,
+      "weight": 0.173605
+    },
+    {
+      "vertex_index": 8753,
+      "weight": 0.237545
+    },
+    {
+      "vertex_index": 8755,
+      "weight": 0.986133
+    },
+    {
+      "vertex_index": 8756,
+      "weight": 0.997582
+    },
+    {
+      "vertex_index": 8760,
+      "weight": 0.886842
+    },
+    {
+      "vertex_index": 8762,
+      "weight": 0.966472
+    },
+    {
+      "vertex_index": 8815,
+      "weight": 0.009267
+    },
+    {
+      "vertex_index": 8816,
+      "weight": 0.256072
+    },
+    {
+      "vertex_index": 8818,
+      "weight": 0.319037
+    },
+    {
+      "vertex_index": 8825,
+      "weight": 0.104405
+    },
+    {
+      "vertex_index": 8826,
+      "weight": 0.981693
+    },
+    {
+      "vertex_index": 8831,
+      "weight": 6e-06
+    },
+    {
+      "vertex_index": 8832,
+      "weight": 0.998572
+    },
+    {
+      "vertex_index": 8837,
+      "weight": 0.787542
+    },
+    {
+      "vertex_index": 8841,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8842,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8843,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8851,
+      "weight": 0.782083
+    },
+    {
+      "vertex_index": 8852,
+      "weight": 0.988231
+    },
+    {
+      "vertex_index": 8860,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8861,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8862,
+      "weight": 0.458887
+    },
+    {
+      "vertex_index": 8863,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8864,
+      "weight": 0.212661
+    },
+    {
+      "vertex_index": 8872,
+      "weight": 0.996118
+    },
+    {
+      "vertex_index": 8875,
+      "weight": 0.298036
+    },
+    {
+      "vertex_index": 8877,
+      "weight": 0.691207
+    },
+    {
+      "vertex_index": 8878,
+      "weight": 0.999672
+    },
+    {
+      "vertex_index": 8879,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8886,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8888,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 8889,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 8894,
+      "weight": 1.5e-05
+    },
+    {
+      "vertex_index": 8910,
+      "weight": 0.977605
+    },
+    {
+      "vertex_index": 8911,
+      "weight": 0.962885
+    },
+    {
+      "vertex_index": 8912,
+      "weight": 0.959283
+    },
+    {
+      "vertex_index": 8914,
+      "weight": 0.754035
+    },
+    {
+      "vertex_index": 8915,
+      "weight": 0.836579
+    },
+    {
+      "vertex_index": 8916,
+      "weight": 0.672555
+    },
+    {
+      "vertex_index": 8925,
+      "weight": 0.812449
+    },
+    {
+      "vertex_index": 8929,
+      "weight": 0.984799
+    },
+    {
+      "vertex_index": 8945,
+      "weight": 1.2e-05
+    },
+    {
+      "vertex_index": 9161,
+      "weight": 0.129858
+    },
+    {
+      "vertex_index": 9163,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9164,
+      "weight": 0.326398
+    },
+    {
+      "vertex_index": 9174,
+      "weight": 0.001767
+    },
+    {
+      "vertex_index": 9175,
+      "weight": 0.992102
+    },
+    {
+      "vertex_index": 9176,
+      "weight": 0.999232
+    },
+    {
+      "vertex_index": 9177,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9178,
+      "weight": 0.993976
+    },
+    {
+      "vertex_index": 9182,
+      "weight": 0.239931
+    },
+    {
+      "vertex_index": 9183,
+      "weight": 0.792788
+    },
+    {
+      "vertex_index": 9185,
+      "weight": 3e-05
+    },
+    {
+      "vertex_index": 9190,
+      "weight": 0.084595
+    },
+    {
+      "vertex_index": 9192,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9193,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9194,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9195,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9196,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9210,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9213,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9215,
+      "weight": 0.976195
+    },
+    {
+      "vertex_index": 9216,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 9217,
+      "weight": 0.272091
+    },
+    {
+      "vertex_index": 9220,
+      "weight": 0.572326
+    },
+    {
+      "vertex_index": 9221,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9222,
+      "weight": 0.021316
+    },
+    {
+      "vertex_index": 9235,
+      "weight": 0.237583
+    },
+    {
+      "vertex_index": 9239,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 9252,
+      "weight": 0.991404
+    },
+    {
+      "vertex_index": 9253,
+      "weight": 0.987865
+    },
+    {
+      "vertex_index": 9255,
+      "weight": 0.99935
+    },
+    {
+      "vertex_index": 9258,
+      "weight": 0.994828
+    },
+    {
+      "vertex_index": 9259,
+      "weight": 0.088004
+    },
+    {
+      "vertex_index": 9260,
+      "weight": 0.983718
+    },
+    {
+      "vertex_index": 9261,
+      "weight": 0.759562
+    },
+    {
+      "vertex_index": 9262,
+      "weight": 0.229031
+    },
+    {
+      "vertex_index": 9263,
+      "weight": 0.985143
+    },
+    {
+      "vertex_index": 9472,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9476,
+      "weight": 2.6e-05
+    },
+    {
+      "vertex_index": 9483,
+      "weight": 0.998174
+    },
+    {
+      "vertex_index": 9484,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9492,
+      "weight": 0.043489
+    },
+    {
+      "vertex_index": 9499,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9500,
+      "weight": 0.998452
+    },
+    {
+      "vertex_index": 9501,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9502,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9503,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9504,
+      "weight": 0.999509
+    },
+    {
+      "vertex_index": 9505,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9522,
+      "weight": 0.912993
+    },
+    {
+      "vertex_index": 9523,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9525,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9526,
+      "weight": 0.588905
+    },
+    {
+      "vertex_index": 9527,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9528,
+      "weight": 0.323843
+    },
+    {
+      "vertex_index": 9529,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9531,
+      "weight": 0.99874
+    },
+    {
+      "vertex_index": 9534,
+      "weight": 0.003209
+    },
+    {
+      "vertex_index": 9535,
+      "weight": 0.201308
+    },
+    {
+      "vertex_index": 9536,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 9537,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9538,
+      "weight": 0.717978
+    },
+    {
+      "vertex_index": 9539,
+      "weight": 0.579934
+    },
+    {
+      "vertex_index": 9541,
+      "weight": 0.00288
+    },
+    {
+      "vertex_index": 9543,
+      "weight": 0.968947
+    },
+    {
+      "vertex_index": 9548,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9550,
+      "weight": 0.99822
+    },
+    {
+      "vertex_index": 9552,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 9554,
+      "weight": 0.24467
+    },
+    {
+      "vertex_index": 9558,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9559,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 9560,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9566,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9570,
+      "weight": 0.333069
+    },
+    {
+      "vertex_index": 9571,
+      "weight": 0.303553
+    },
+    {
+      "vertex_index": 9577,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9578,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9582,
+      "weight": 0.183715
+    },
+    {
+      "vertex_index": 9587,
+      "weight": 0.002082
+    },
+    {
+      "vertex_index": 9589,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 9591,
+      "weight": 0.99662
+    },
+    {
+      "vertex_index": 9595,
+      "weight": 0.000161
+    },
+    {
+      "vertex_index": 9634,
+      "weight": 0.350664
+    },
+    {
+      "vertex_index": 9635,
+      "weight": 0.967942
+    },
+    {
+      "vertex_index": 9636,
+      "weight": 0.977134
+    },
+    {
+      "vertex_index": 9637,
+      "weight": 0.955813
+    },
+    {
+      "vertex_index": 9638,
+      "weight": 0.993643
+    },
+    {
+      "vertex_index": 9639,
+      "weight": 0.855349
+    },
+    {
+      "vertex_index": 9640,
+      "weight": 0.998905
+    },
+    {
+      "vertex_index": 9641,
+      "weight": 0.971128
+    },
+    {
+      "vertex_index": 9642,
+      "weight": 0.997313
+    },
+    {
+      "vertex_index": 9651,
+      "weight": 0.978698
+    },
+    {
+      "vertex_index": 9652,
+      "weight": 0.989821
+    },
+    {
+      "vertex_index": 9653,
+      "weight": 0.36991
+    },
+    {
+      "vertex_index": 9656,
+      "weight": 0.002444
+    },
+    {
+      "vertex_index": 9892,
+      "weight": 0.191283
+    },
+    {
+      "vertex_index": 9929,
+      "weight": 1.7e-05
+    },
+    {
+      "vertex_index": 9932,
+      "weight": 1e-06
+    },
+    {
+      "vertex_index": 10022,
+      "weight": 1.2e-05
+    },
+    {
+      "vertex_index": 10023,
+      "weight": 0.837211
+    },
+    {
+      "vertex_index": 10024,
+      "weight": 0.001558
+    },
+    {
+      "vertex_index": 10025,
+      "weight": 0.849283
+    },
+    {
+      "vertex_index": 10029,
+      "weight": 0.998116
+    },
+    {
+      "vertex_index": 10030,
+      "weight": 0.994149
+    },
+    {
+      "vertex_index": 10034,
+      "weight": 0.173605
+    },
+    {
+      "vertex_index": 10037,
+      "weight": 0.237545
+    },
+    {
+      "vertex_index": 10039,
+      "weight": 0.986133
+    },
+    {
+      "vertex_index": 10040,
+      "weight": 0.997582
+    },
+    {
+      "vertex_index": 10044,
+      "weight": 0.886842
+    },
+    {
+      "vertex_index": 10046,
+      "weight": 0.966472
+    },
+    {
+      "vertex_index": 10099,
+      "weight": 0.009267
+    },
+    {
+      "vertex_index": 10100,
+      "weight": 0.256072
+    },
+    {
+      "vertex_index": 10102,
+      "weight": 0.319037
+    },
+    {
+      "vertex_index": 10109,
+      "weight": 0.104405
+    },
+    {
+      "vertex_index": 10110,
+      "weight": 0.981693
+    },
+    {
+      "vertex_index": 10115,
+      "weight": 6e-06
+    },
+    {
+      "vertex_index": 10116,
+      "weight": 0.998572
+    },
+    {
+      "vertex_index": 10121,
+      "weight": 0.787542
+    },
+    {
+      "vertex_index": 10125,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 10126,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 10127,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 10135,
+      "weight": 0.782083
+    },
+    {
+      "vertex_index": 10136,
+      "weight": 0.988231
+    },
+    {
+      "vertex_index": 10144,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 10145,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 10146,
+      "weight": 0.458887
+    },
+    {
+      "vertex_index": 10147,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 10148,
+      "weight": 0.212661
+    },
+    {
+      "vertex_index": 10156,
+      "weight": 0.996118
+    },
+    {
+      "vertex_index": 10159,
+      "weight": 0.298036
+    },
+    {
+      "vertex_index": 10161,
+      "weight": 0.691207
+    },
+    {
+      "vertex_index": 10162,
+      "weight": 0.999672
+    },
+    {
+      "vertex_index": 10163,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 10170,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 10172,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 10173,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 10178,
+      "weight": 1.5e-05
+    },
+    {
+      "vertex_index": 10194,
+      "weight": 0.977605
+    },
+    {
+      "vertex_index": 10195,
+      "weight": 0.962885
+    },
+    {
+      "vertex_index": 10196,
+      "weight": 0.959283
+    },
+    {
+      "vertex_index": 10198,
+      "weight": 0.754035
+    },
+    {
+      "vertex_index": 10199,
+      "weight": 0.836579
+    },
+    {
+      "vertex_index": 10200,
+      "weight": 0.672555
+    },
+    {
+      "vertex_index": 10212,
+      "weight": 0.984799
+    },
+    {
+      "vertex_index": 10228,
+      "weight": 1.2e-05
+    },
+    {
+      "vertex_index": 14454,
+      "weight": 0.983893
+    },
+    {
+      "vertex_index": 14455,
+      "weight": 0.980702
+    },
+    {
+      "vertex_index": 14456,
+      "weight": 0.996592
+    },
+    {
+      "vertex_index": 14459,
+      "weight": 0.000196
+    },
+    {
+      "vertex_index": 14461,
+      "weight": 0.049349
+    },
+    {
+      "vertex_index": 14477,
+      "weight": 0.983893
+    },
+    {
+      "vertex_index": 14478,
+      "weight": 0.980702
+    },
+    {
+      "vertex_index": 14479,
+      "weight": 0.993564
+    },
+    {
+      "vertex_index": 14481,
+      "weight": 0.000196
+    },
+    {
+      "vertex_index": 14483,
+      "weight": 0.049349
+    },
+    {
+      "vertex_index": 14484,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 15157,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 15159,
+      "weight": 0.998498
+    },
+    {
+      "vertex_index": 15160,
+      "weight": 0.986409
+    },
+    {
+      "vertex_index": 15161,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15162,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15205,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 15210,
+      "weight": 0.37886
+    },
+    {
+      "vertex_index": 15211,
+      "weight": 0.709394
+    },
+    {
+      "vertex_index": 15214,
+      "weight": 0.968931
+    },
+    {
+      "vertex_index": 15215,
+      "weight": 0.743131
+    },
+    {
+      "vertex_index": 15220,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15221,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15222,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15223,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15224,
+      "weight": 0.147339
+    },
+    {
+      "vertex_index": 15225,
+      "weight": 0.198835
+    },
+    {
+      "vertex_index": 15226,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15227,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15230,
+      "weight": 0.993754
+    },
+    {
+      "vertex_index": 15231,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15266,
+      "weight": 0.123166
+    },
+    {
+      "vertex_index": 15267,
+      "weight": 0.215156
+    },
+    {
+      "vertex_index": 15268,
+      "weight": 0.413306
+    },
+    {
+      "vertex_index": 15269,
+      "weight": 0.332857
+    },
+    {
+      "vertex_index": 15280,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15281,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15292,
+      "weight": 0.222209
+    },
+    {
+      "vertex_index": 15293,
+      "weight": 0.830615
+    },
+    {
+      "vertex_index": 15294,
+      "weight": 0.970301
+    },
+    {
+      "vertex_index": 15295,
+      "weight": 0.010367
+    },
+    {
+      "vertex_index": 15296,
+      "weight": 0.086803
+    },
+    {
+      "vertex_index": 15299,
+      "weight": 0.022564
+    },
+    {
+      "vertex_index": 15300,
+      "weight": 0.177577
+    },
+    {
+      "vertex_index": 15305,
+      "weight": 0.38366
+    },
+    {
+      "vertex_index": 15306,
+      "weight": 0.508304
+    },
+    {
+      "vertex_index": 15316,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15317,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15318,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15319,
+      "weight": 0.993166
+    },
+    {
+      "vertex_index": 15334,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15335,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15342,
+      "weight": 5.3e-05
+    },
+    {
+      "vertex_index": 15343,
+      "weight": 0.012482
+    },
+    {
+      "vertex_index": 15382,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15383,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15387,
+      "weight": 1e-06
+    },
+    {
+      "vertex_index": 15396,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15397,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15400,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15401,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15404,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15405,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15427,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15428,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15471,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 15476,
+      "weight": 0.37886
+    },
+    {
+      "vertex_index": 15477,
+      "weight": 0.709394
+    },
+    {
+      "vertex_index": 15480,
+      "weight": 0.968931
+    },
+    {
+      "vertex_index": 15481,
+      "weight": 0.743131
+    },
+    {
+      "vertex_index": 15486,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15487,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15488,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15489,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15490,
+      "weight": 0.147339
+    },
+    {
+      "vertex_index": 15491,
+      "weight": 0.198835
+    },
+    {
+      "vertex_index": 15492,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15493,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15496,
+      "weight": 0.993754
+    },
+    {
+      "vertex_index": 15497,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15532,
+      "weight": 0.123166
+    },
+    {
+      "vertex_index": 15533,
+      "weight": 0.215156
+    },
+    {
+      "vertex_index": 15534,
+      "weight": 0.413306
+    },
+    {
+      "vertex_index": 15535,
+      "weight": 0.332857
+    },
+    {
+      "vertex_index": 15546,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15547,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15559,
+      "weight": 0.222209
+    },
+    {
+      "vertex_index": 15560,
+      "weight": 0.830615
+    },
+    {
+      "vertex_index": 15561,
+      "weight": 0.970301
+    },
+    {
+      "vertex_index": 15562,
+      "weight": 0.998371
+    },
+    {
+      "vertex_index": 15563,
+      "weight": 0.010367
+    },
+    {
+      "vertex_index": 15564,
+      "weight": 0.086803
+    },
+    {
+      "vertex_index": 15568,
+      "weight": 0.022564
+    },
+    {
+      "vertex_index": 15569,
+      "weight": 0.177577
+    },
+    {
+      "vertex_index": 15570,
+      "weight": 0.823506
+    },
+    {
+      "vertex_index": 15574,
+      "weight": 0.38366
+    },
+    {
+      "vertex_index": 15575,
+      "weight": 0.508304
+    },
+    {
+      "vertex_index": 15584,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15585,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15586,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15587,
+      "weight": 0.993166
+    },
+    {
+      "vertex_index": 15602,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15603,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15610,
+      "weight": 5.3e-05
+    },
+    {
+      "vertex_index": 15611,
+      "weight": 0.012482
+    },
+    {
+      "vertex_index": 15651,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15652,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15656,
+      "weight": 1e-06
+    },
+    {
+      "vertex_index": 15665,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15666,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15669,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15670,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15673,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15674,
+      "weight": 1.0
+    },
+    {
+      "vertex_index": 15694,
+      "weight": 0.983061
+    },
+    {
+      "vertex_index": 15697,
+      "weight": 0.987573
+    },
+    {
+      "vertex_index": 15698,
+      "weight": 0.355612
+    },
+    {
+      "vertex_index": 15701,
+      "weight": 0.988458
+    },
+    {
+      "vertex_index": 15702,
+      "weight": 0.999172
+    },
+    {
+      "vertex_index": 15703,
+      "weight": 0.945676
+    },
+    {
+      "vertex_index": 15705,
+      "weight": 0.807513
+    },
+    {
+      "vertex_index": 15707,
+      "weight": 0.992466
+    },
+    {
+      "vertex_index": 15708,
+      "weight": 0.000168
+    },
+    {
+      "vertex_index": 15710,
+      "weight": 0.026024
+    },
+    {
+      "vertex_index": 15714,
+      "weight": 0.983061
+    },
+    {
+      "vertex_index": 15715,
+      "weight": 0.987573
+    },
+    {
+      "vertex_index": 15716,
+      "weight": 0.997814
+    },
+    {
+      "vertex_index": 15717,
+      "weight": 0.992264
+    },
+    {
+      "vertex_index": 15718,
+      "weight": 0.355612
+    },
+    {
+      "vertex_index": 15720,
+      "weight": 0.988458
+    },
+    {
+      "vertex_index": 15721,
+      "weight": 0.945676
+    },
+    {
+      "vertex_index": 15725,
+      "weight": 0.992466
+    },
+    {
+      "vertex_index": 15726,
+      "weight": 0.000168
+    },
+    {
+      "vertex_index": 15728,
+      "weight": 0.026024
+    },
+    {
+      "vertex_index": 15729,
+      "weight": 0.982716
+    },
+    {
+      "vertex_index": 15732,
+      "weight": 0.992215
+    },
+    {
+      "vertex_index": 15733,
+      "weight": 0.372004
+    },
+    {
+      "vertex_index": 15736,
+      "weight": 0.991378
+    },
+    {
+      "vertex_index": 15737,
+      "weight": 0.998371
+    },
+    {
+      "vertex_index": 15738,
+      "weight": 0.672784
+    },
+    {
+      "vertex_index": 15740,
+      "weight": 0.823506
+    },
+    {
+      "vertex_index": 15742,
+      "weight": 0.995173
+    },
+    {
+      "vertex_index": 15743,
+      "weight": 0.000588
+    },
+    {
+      "vertex_index": 15745,
+      "weight": 0.051632
+    },
+    {
+      "vertex_index": 15747,
+      "weight": 0.0
+    },
+    {
+      "vertex_index": 15749,
+      "weight": 0.982716
+    },
+    {
+      "vertex_index": 15750,
+      "weight": 0.992215
+    },
+    {
+      "vertex_index": 15751,
+      "weight": 0.998498
+    },
+    {
+      "vertex_index": 15752,
+      "weight": 0.986409
+    },
+    {
+      "vertex_index": 15753,
+      "weight": 0.372004
+    },
+    {
+      "vertex_index": 15755,
+      "weight": 0.991378
+    },
+    {
+      "vertex_index": 15756,
+      "weight": 0.672784
+    },
+    {
+      "vertex_index": 15760,
+      "weight": 0.995173
+    },
+    {
+      "vertex_index": 15761,
+      "weight": 0.000588
+    },
+    {
+      "vertex_index": 15763,
+      "weight": 0.051632
+    },
+    {
+      "vertex_index": 15766,
+      "weight": 0.997814
+    },
+    {
+      "vertex_index": 15767,
+      "weight": 0.992264
+    },
+    {
+      "vertex_index": 15769,
+      "weight": 0.241833
+    },
+    {
+      "vertex_index": 15776,
+      "weight": 0.241833
+    },
+    {
+      "vertex_index": 15777,
+      "weight": 0.999172
+    },
+    {
+      "vertex_index": 15779,
+      "weight": 0.807513
+    }
+  ]
+}

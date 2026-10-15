@@ -1,0 +1,553 @@
+{
+    "$comment": [
+        "These patterns are originally from",
+        "https://github.com/bdunderscore/modular-avatar/blob/80d17f82846266957324db71045ae4b68f742f0a/Editor/HeuristicBoneMapper.cs",
+        "Copyright (c) 2022 bd_",
+        "Licensed under the MIT License",
+        "https://github.com/HhotateA/AvatarModifyTools/blob/d8ae75fed8577707253d6b63a64d6053eebbe78b/Assets/HhotateA/AvatarModifyTool/Editor/EnvironmentVariable.cs#L81-L139",
+        "Copyright (c) 2021 @HhotateA_xR",
+        "Licensed under the MIT License",
+        "In addition, some part is copied from from https://github.com/Azukimochi/BoneRenamer/blob/6ec12b848830f467e35ddf7ff105aaa72be02908/BoneNames.xml",
+        "Copyright (c) 2023 Azukimochi",
+        "Licensed under the MIT License",
+        "",
+        "Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:",
+        "",
+        "The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.",
+        "",
+        "MIT License",
+        "",
+        "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    ],
+    "HumanoidBoneNamePatterns": {
+        "Hips": [
+            ["Hips"],
+            ["Hip"],
+            ["pelvis"]
+        ],
+        "LeftUpperLeg": [
+            ["Left", "Upper", "Leg"],
+            ["L", "Upper", "Leg"],
+            ["Leg", "Left"],
+            ["Leg", "L"],
+            ["ULeg", "L"],
+            ["Left", "Up", "Leg"],
+            ["L", "Up", "Leg"],
+            ["Thigh", "Left"],
+            ["Thigh", "L"]
+        ],
+        "RightUpperLeg": [
+            ["Right", "Upper", "Leg"],
+            ["R", "Upper", "Leg"],
+            ["Leg", "Right"],
+            ["Leg", "R"],
+            ["ULeg", "R"],
+            ["Right", "Up", "Leg"],
+            ["R", "Up", "Leg"],
+            ["Thigh", "Right"],
+            ["Thigh", "R"]
+        ],
+        "LeftLowerLeg": [
+            ["Left", "Lower", "Leg"],
+            ["L", "Lower", "Leg"],
+            ["Leg", "Left"],
+            ["Leg", "L"],
+            ["LLeg", "L"],
+            ["Left", "Knee"],
+            ["L", "Knee"],
+            ["shin", "Left"],
+            ["shin", "L"]
+        ],
+        "RightLowerLeg": [
+            ["Right", "Lower", "Leg"],
+            ["R", "Lower", "Leg"],
+            ["Leg", "Right"],
+            ["Leg", "R"],
+            ["LLeg", "R"],
+            ["Right", "Knee"],
+            ["R", "Knee"],
+            ["shin", "Right"],
+            ["shin", "R"]
+        ],
+        "LeftFoot": [
+            ["Left", "Foot"],
+            ["Foot", "L"],
+            ["Ankle","L"],
+            ["Left", "Ankle"],
+            ["Heel","L"],
+            ["Left", "Heel"],
+            ["FootL001"]
+        ],
+        "RightFoot": [
+            ["Right", "Foot"],
+            ["Foot", "R"],
+            ["Ankle","R"],
+            ["Right", "Ankle"],
+            ["Heel","R"],
+            ["Right", "Heel"],
+            ["FootR001"]
+        ],
+        "Spine": [
+            ["Spine"],
+            ["spine01"]
+        ],
+        "Chest": [
+            ["Chest"],
+            ["Bust"],
+            ["spine02"],
+            ["upper_chest"]
+        ],
+        "Neck": [
+            ["Neck"]
+        ],
+        "Head": [
+            ["Head"]
+        ],
+        "LeftShoulder": [
+            ["Left", "Shoulder"],
+            ["L", "Shoulder"]
+        ],
+        "RightShoulder": [
+            ["Right", "Shoulder"],
+            ["R", "Shoulder"]
+        ],
+        "LeftUpperArm": [
+            ["Left", "Upper", "Arm"],
+            ["L", "Upper", "Arm"],
+            ["Arm", "Left"],
+            ["Arm", "L"],
+            ["UArm", "L"]
+        ],
+        "RightUpperArm": [
+            ["Right", "Upper", "Arm"],
+            ["R", "Upper", "Arm"],
+            ["Arm", "Right"],
+            ["Arm", "R"],
+            ["UArm", "R"]
+        ],
+        "LeftLowerArm": [
+            ["Left", "Lower", "Arm"],
+            ["L", "Lower", "Arm"],
+            ["LArm", "L"],
+            ["Left", "Elbow"],
+            ["L", "Elbow"],
+            ["Left", "ForeArm"],
+            ["L", "ForeArm"],
+            ["ForArm_L"]
+        ],
+        "RightLowerArm": [
+            ["Right", "Lower", "Arm"],
+            ["R", "Lower", "Arm"],
+            ["LArm", "R"],
+            ["Right", "Elbow"],
+            ["R", "Elbow"],
+            ["Right", "ForeArm"],
+            ["R", "ForeArm"],
+            ["ForArm_R"]
+        ],
+        "LeftHand": [
+            ["Left", "Hand"],
+            ["Hand", "L"],
+            ["Left", "Wrist"],
+            ["Wrist", "L"]
+        ],
+        "RightHand": [
+            ["Right", "Hand"],
+            ["Hand", "R"],
+            ["Right", "Wrist"],
+            ["Wrist", "R"]
+        ],
+        "LeftToes": [
+            ["Left", "Toes"],
+            ["Toes", "L"],
+            ["Left", "Toe"],
+            ["Toe", "L"],
+            ["ToeIK", "L"],
+            ["FootL002"],
+            ["LeftToeBase"]
+        ],
+        "RightToes": [
+            ["Right", "Toes"],
+            ["Toes", "R"],
+            ["Right", "Toe"],
+            ["Toe", "R"],
+            ["ToeIK", "R"],
+            ["FootR002"],
+            ["RightToeBase"]
+        ],
+        "LeftEye": [
+            ["Left", "Eye"],
+            ["Eye", "L"]
+        ],
+        "RightEye": [
+            ["Right", "Eye"],
+            ["Eye", "R"]
+        ],
+        "Jaw": [
+            ["Jaw"]
+        ],
+        "LeftThumbProximal": [
+            ["Left", "Thumb", "Proximal"],
+            ["Thumb", "Proximal", "L"],
+            ["Thumb1", "Left"],
+            ["Thumb1", "L"],
+            ["ThumbFinger1", "Left"],
+            ["ThumbFinger1", "L"],
+            ["Left", "Hand", "Thumb1"],
+            ["L", "Hand", "Thumb1"],
+            ["Thunb1", "L"],
+            ["finger0101L"]
+        ],
+        "LeftThumbIntermediate": [
+            ["Left", "Thumb", "Intermediate"],
+            ["Thumb", "Intermediate", "L"],
+            ["Thumb2", "Left"],
+            ["Thumb2", "L"],
+            ["ThumbFinger2", "Left"],
+            ["ThumbFinger2", "L"],
+            ["Left", "Hand", "Thumb2"],
+            ["L", "Hand", "Thumb2"],
+            ["Thunb2", "L"],
+            ["finger0102L"]
+        ],
+        "LeftThumbDistal": [
+            ["Left", "Thumb", "Distal"],
+            ["Thumb", "Distal", "L"],
+            ["Thumb3", "Left"],
+            ["Thumb3", "L"],
+            ["ThumbFinger3", "Left"],
+            ["ThumbFinger3", "L"],
+            ["Left", "Hand", "Thumb3"],
+            ["L", "Hand", "Thumb3"],
+            ["Thunb3", "L"],
+            ["finger0103L"]
+        ],
+        "LeftIndexProximal": [
+            ["Left", "Index", "Proximal"],
+            ["Index", "Proximal", "L"],
+            ["Index1", "Left"],
+            ["Index1", "L"],
+            ["IndexFinger1", "Left"],
+            ["IndexFinger1", "L"],
+            ["Left", "Hand", "Index1"],
+            ["L", "Hand", "Index1"],
+            ["finger0201L"],
+            ["findex01L"]
+        ],
+        "LeftIndexIntermediate": [
+            ["Left", "Index", "Intermediate"],
+            ["Index", "Intermediate", "L"],
+            ["Index2", "Left"],
+            ["Index2", "L"],
+            ["IndexFinger2", "Left"],
+            ["IndexFinger2", "L"],
+            ["Left", "Hand", "Index2"],
+            ["L", "Hand", "Index2"],
+            ["finger0202L"],
+            ["findex02L"]
+        ],
+        "LeftIndexDistal": [
+            ["Left", "Index", "Distal"],
+            ["Index", "Distal", "L"],
+            ["Index3", "Left"],
+            ["Index3", "L"],
+            ["IndexFinger3", "Left"],
+            ["IndexFinger3", "L"],
+            ["Left", "Hand", "Index3"],
+            ["L", "Hand", "Index3"],
+            ["finger0203L"],
+            ["findex03L"]
+        ],
+        "LeftMiddleProximal": [
+            ["Left", "Middle", "Proximal"],
+            ["Middle", "Proximal", "L"],
+            ["Middle1", "Left"],
+            ["Middle1", "L"],
+            ["MiddleFinger1", "Left"],
+            ["MiddleFinger1", "L"],
+            ["Left", "Hand", "Middle1"],
+            ["L", "Hand", "Middle1"],
+            ["finger0301L"],
+            ["fmiddle01L"]
+        ],
+        "LeftMiddleIntermediate": [
+            ["Left", "Middle", "Intermediate"],
+            ["Middle", "Intermediate", "L"],
+            ["Middle2", "Left"],
+            ["Middle2", "L"],
+            ["MiddleFinger2", "Left"],
+            ["MiddleFinger2", "L"],
+            ["Left", "Hand", "Middle2"],
+            ["L", "Hand", "Middle2"],
+            ["finger0302L"],
+            ["fmiddle02L"]
+        ],
+        "LeftMiddleDistal": [
+            ["Left", "Middle", "Distal"],
+            ["Middle", "Distal", "L"],
+            ["Middle3", "Left"],
+            ["Middle3", "L"],
+            ["MiddleFinger3", "Left"],
+            ["MiddleFinger3", "L"],
+            ["Left", "Hand", "Middle3"],
+            ["L", "Hand", "Middle3"],
+            ["finger0303L"],
+            ["fmiddle03L"]
+        ],
+        "LeftRingProximal": [
+            ["Left", "Ring", "Proximal"],
+            ["Ring", "Proximal", "L"],
+            ["Ring1", "Left"],
+            ["Ring1", "L"],
+            ["RingFinger1", "Left"],
+            ["RingFinger1", "L"],
+            ["Left", "Hand", "Ring1"],
+            ["L", "Hand", "Ring1"],
+            ["finger0401L"],
+            ["fring01L"]
+        ],
+        "LeftRingIntermediate": [
+            ["Left", "Ring", "Intermediate"],
+            ["Ring", "Intermediate", "L"],
+            ["Ring2", "Left"],
+            ["Ring2", "L"],
+            ["RingFinger2", "Left"],
+            ["RingFinger2", "L"],
+            ["Left", "Hand", "Ring2"],
+            ["L", "Hand", "Ring2"],
+            ["finger0402L"],
+            ["fring02L"]
+        ],
+        "LeftRingDistal": [
+            ["Left", "Ring", "Distal"],
+            ["Ring", "Distal", "L"],
+            ["Ring3", "Left"],
+            ["Ring3", "L"],
+            ["RingFinger3", "Left"],
+            ["RingFinger3", "L"],
+            ["Left", "Hand", "Ring3"],
+            ["L", "Hand", "Ring3"],
+            ["finger0403L"],
+            ["fring03L"]
+        ],
+        "LeftLittleProximal": [
+            ["Left", "Little", "Proximal"],
+            ["Little", "Proximal", "L"],
+            ["Little1", "Left"],
+            ["Little1", "L"],
+            ["LittleFinger1", "Left"],
+            ["LittleFinger1", "L"],
+            ["Left", "Hand", "Little1"],
+            ["L", "Hand", "Little1"],
+            ["finger0501L"],
+            ["fpinky01L"]
+        ],
+        "LeftLittleIntermediate": [
+            ["Left", "Little", "Intermediate"],
+            ["Little", "Intermediate", "L"],
+            ["Little2", "Left"],
+            ["Little2", "L"],
+            ["LittleFinger2", "Left"],
+            ["LittleFinger2", "L"],
+            ["Left", "Hand", "Little2"],
+            ["L", "Hand", "Little2"],
+            ["finger0502L"],
+            ["fpinky02L"]
+        ],
+        "LeftLittleDistal": [
+            ["Left", "Little", "Distal"],
+            ["Little", "Distal", "L"],
+            ["Little3", "Left"],
+            ["Little3", "L"],
+            ["LittleFinger3", "Left"],
+            ["LittleFinger3", "L"],
+            ["Left", "Hand", "Little3"],
+            ["L", "Hand", "Little3"],
+            ["finger0503L"],
+            ["fpinky03L"]
+        ],
+        "RightThumbProximal": [
+            ["Right", "Thumb", "Proximal"],
+            ["Thumb", "Proximal", "R"],
+            ["Thumb1", "Right"],
+            ["Thumb1", "R"],
+            ["ThumbFinger1", "Right"],
+            ["ThumbFinger1", "R"],
+            ["Right", "Hand", "Thumb1"],
+            ["R", "Hand", "Thumb1"],
+            ["Thunb1", "R"],
+            ["finger0101R"]
+        ],
+        "RightThumbIntermediate": [
+            ["Right", "Thumb", "Intermediate"],
+            ["Thumb", "Intermediate", "R"],
+            ["Thumb2", "Right"],
+            ["Thumb2", "R"],
+            ["ThumbFinger2", "Right"],
+            ["ThumbFinger2", "R"],
+            ["Right", "Hand", "Thumb2"],
+            ["R", "Hand", "Thumb2"],
+            ["Thunb2", "R"],
+            ["finger0102R"]
+        ],
+        "RightThumbDistal": [
+            ["Right", "Thumb", "Distal"],
+            ["Thumb", "Distal", "R"],
+            ["Thumb3", "Right"],
+            ["Thumb3", "R"],
+            ["ThumbFinger3", "Right"],
+            ["ThumbFinger3", "R"],
+            ["Right", "Hand", "Thumb3"],
+            ["R", "Hand", "Thumb3"],
+            ["Thunb3", "R"],
+            ["finger0103R"]
+        ],
+        "RightIndexProximal": [
+            ["Right", "Index", "Proximal"],
+            ["Index", "Proximal", "R"],
+            ["Index1", "Right"],
+            ["Index1", "R"],
+            ["IndexFinger1", "Right"],
+            ["IndexFinger1", "R"],
+            ["Right", "Hand", "Index1"],
+            ["R", "Hand", "Index1"],
+            ["finger0201R"],
+            ["findex01R"]
+        ],
+        "RightIndexIntermediate": [
+            ["Right", "Index", "Intermediate"],
+            ["Index", "Intermediate", "R"],
+            ["Index2", "Right"],
+            ["Index2", "R"],
+            ["IndexFinger2", "Right"],
+            ["IndexFinger2", "R"],
+            ["Right", "Hand", "Index2"],
+            ["R", "Hand", "Index2"],
+            ["finger0202R"],
+            ["findex02R"]
+        ],
+        "RightIndexDistal": [
+            ["Right", "Index", "Distal"],
+            ["Index", "Distal", "R"],
+            ["Index3", "Right"],
+            ["Index3", "R"],
+            ["IndexFinger3", "Right"],
+            ["IndexFinger3", "R"],
+            ["Right", "Hand", "Index3"],
+            ["R", "Hand", "Index3"],
+            ["finger0203R"],
+            ["findex03R"]
+        ],
+        "RightMiddleProximal": [
+            ["Right", "Middle", "Proximal"],
+            ["Middle", "Proximal", "R"],
+            ["Middle1", "Right"],
+            ["Middle1", "R"],
+            ["MiddleFinger1", "Right"],
+            ["MiddleFinger1", "R"],
+            ["Right", "Hand", "Middle1"],
+            ["R", "Hand", "Middle1"],
+            ["finger0301R"],
+            ["fmiddle01R"]
+        ],
+        "RightMiddleIntermediate": [
+            ["Right", "Middle", "Intermediate"],
+            ["Middle", "Intermediate", "R"],
+            ["Middle2", "Right"],
+            ["Middle2", "R"],
+            ["MiddleFinger2", "Right"],
+            ["MiddleFinger2", "R"],
+            ["Right", "Hand", "Middle2"],
+            ["R", "Hand", "Middle2"],
+            ["finger0302R"],
+            ["fmiddle02R"]
+        ],
+        "RightMiddleDistal": [
+            ["Right", "Middle", "Distal"],
+            ["Middle", "Distal", "R"],
+            ["Middle3", "Right"],
+            ["Middle3", "R"],
+            ["MiddleFinger3", "Right"],
+            ["MiddleFinger3", "R"],
+            ["Right", "Hand", "Middle3"],
+            ["R", "Hand", "Middle3"],
+            ["finger0303R"],
+            ["fmiddle03R"]
+        ],
+        "RightRingProximal": [
+            ["Right", "Ring", "Proximal"],
+            ["Ring", "Proximal", "R"],
+            ["Ring1", "Right"],
+            ["Ring1", "R"],
+            ["RingFinger1", "Right"],
+            ["RingFinger1", "R"],
+            ["Right", "Hand", "Ring1"],
+            ["R", "Hand", "Ring1"],
+            ["finger0401R"],
+            ["fring01R"]
+        ],
+        "RightRingIntermediate": [
+            ["Right", "Ring", "Intermediate"],
+            ["Ring", "Intermediate", "R"],
+            ["Ring2", "Right"],
+            ["Ring2", "R"],
+            ["RingFinger2", "Right"],
+            ["RingFinger2", "R"],
+            ["Right", "Hand", "Ring2"],
+            ["R", "Hand", "Ring2"],
+            ["finger0402R"],
+            ["fring02R"]
+        ],
+        "RightRingDistal": [
+            ["Right", "Ring", "Distal"],
+            ["Ring", "Distal", "R"],
+            ["Ring3", "Right"],
+            ["Ring3", "R"],
+            ["RingFinger3", "Right"],
+            ["RingFinger3", "R"],
+            ["Right", "Hand", "Ring3"],
+            ["R", "Hand", "Ring3"],
+            ["finger0403R"],
+            ["fring03R"]
+        ],
+        "RightLittleProximal": [
+            ["Right", "Little", "Proximal"],
+            ["Little", "Proximal", "R"],
+            ["Little1", "Right"],
+            ["Little1", "R"],
+            ["LittleFinger1", "Right"],
+            ["LittleFinger1", "R"],
+            ["Right", "Hand", "Little1"],
+            ["R", "Hand", "Little1"],
+            ["finger0501R"],
+            ["fpinky01R"]
+        ],
+        "RightLittleIntermediate": [
+            ["Right", "Little", "Intermediate"],
+            ["Little", "Intermediate", "R"],
+            ["Little2", "Right"],
+            ["Little2", "R"],
+            ["LittleFinger2", "R"],
+            ["Right", "Hand", "Little2"],
+            ["R", "Hand", "Little2"],
+            ["finger0502R"],
+            ["fpinky02R"]
+        ],
+        "RightLittleDistal": [
+            ["Right", "Little", "Distal"],
+            ["Little", "Distal", "R"],
+            ["Little3", "Right"],
+            ["Little3", "R"],
+            ["LittleFinger3", "Right"],
+            ["LittleFinger3", "R"],
+            ["Right", "Hand", "Little3"],
+            ["R", "Hand", "Little3"],
+            ["finger0503R"],
+            ["fpinky03R"]
+        ],
+        "UpperChest": [
+            ["UpperChest"],
+            ["UChest"]
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+  "poseDataPath": "posediff_template_to_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked.json",
+  "fieldDataPath": "deformation_template_to_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked.npz",
+  "baseAvatarDataPath": "avatar_data_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked.json",
+  "clothingAvatarDataPath": "avatar_data_template.json",
+  "sourceBlendShapeSettings": [
+    {
+      "name": "Breasts_flat",
+      "value": 0.65
+    },
+    {
+      "name": "Highheels",
+      "value": 0.06
+    }
+  ],
+  "targetBlendShapeSettings": [],
+  "blendShapeFields": [
+    {
+      "label": "Heels",
+      "sourceLabel": "Highheels",
+      "path": "deformation_template_to_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_highheels.npz",
+      "maskBones": [
+        "LeftFoot",
+        "LeftFootIndexDistal",
+        "LeftFootIndexIntermediate",
+        "LeftFootIndexProximal",
+        "LeftFootLittleDistal",
+        "LeftFootLittleIntermediate",
+        "LeftFootLittleProximal",
+        "LeftFootMiddleDistal",
+        "LeftFootMiddleIntermediate",
+        "LeftFootMiddleProximal",
+        "LeftFootRingDistal",
+        "LeftFootRingIntermediate",
+        "LeftFootRingProximal",
+        "LeftFootThumbDistal",
+        "LeftFootThumbIntermediate",
+        "LeftFootThumbProximal",
+        "LeftLowerLeg",
+        "LeftToes",
+        "RightFoot",
+        "RightFootIndexDistal",
+        "RightFootIndexIntermediate",
+        "RightFootIndexProximal",
+        "RightFootLittleDistal",
+        "RightFootLittleIntermediate",
+        "RightFootLittleProximal",
+        "RightFootMiddleDistal",
+        "RightFootMiddleIntermediate",
+        "RightFootMiddleProximal",
+        "RightFootRingDistal",
+        "RightFootRingIntermediate",
+        "RightFootRingProximal",
+        "RightFootThumbDistal",
+        "RightFootThumbIntermediate",
+        "RightFootThumbProximal",
+        "RightLowerLeg",
+        "RightToes"
+      ],
+      "sourceBlendShapeSettings": [
+        {
+          "name": "Breasts_flat",
+          "value": 0.65
+        },
+        {
+          "name": "Highheels",
+          "value": 1
+        }
+      ],
+      "targetBlendShapeSettings": [
+        {
+          "name": "Heels",
+          "value": 1
+        }
+      ]
+    }
+  ],
+  "clothingBlendShapeSettings": [],
+  "clothingBlendShapeSettingsInv": []
+}

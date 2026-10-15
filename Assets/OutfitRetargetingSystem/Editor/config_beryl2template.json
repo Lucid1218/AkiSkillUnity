@@ -1,0 +1,92 @@
+{
+    "poseDataPath": "posediff_beryl_to_template.json",
+    "fieldDataPath": "deformation_beryl_to_template.npz",
+    "sourceBlendShapeSettings": [],
+    "targetBlendShapeSettings": [],
+    "blendShapeFields": [
+        {
+            "label": "Breasts_big",
+            "sourceLabel": "Breasts",
+            "path": "deformation_beryl_to_template_breasts_big.npz",
+            "maskBones": [
+                "Chest",
+                "LeftBreast",
+                "LeftShoulder",
+                "RightBreast",
+                "RightShoulder",
+                "Spine"
+            ],
+            "sourceBlendShapeSettings": [
+                {
+                    "name": "Breasts",
+                    "value": 1.000
+                }
+            ],
+            "targetBlendShapeSettings": [
+                {
+                    "name": "Breasts_big",
+                    "value": 1.000
+                }
+            ]
+        },
+        {
+            "label": "Highheels",
+            "sourceLabel": "Highheel",
+            "path": "deformation_beryl_to_template_highheels.npz",
+            "maskBones": [
+                "LeftFoot",
+                "LeftFootIndexDistal",
+                "LeftFootIndexIntermediate",
+                "LeftFootIndexProximal",
+                "LeftFootLittleDistal",
+                "LeftFootLittleIntermediate",
+                "LeftFootLittleProximal",
+                "LeftFootMiddleDistal",
+                "LeftFootMiddleIntermediate",
+                "LeftFootMiddleProximal",
+                "LeftFootRingDistal",
+                "LeftFootRingIntermediate",
+                "LeftFootRingProximal",
+                "LeftFootThumbDistal",
+                "LeftFootThumbIntermediate",
+                "LeftFootThumbProximal",
+                "LeftLowerLeg",
+                "LeftToes",
+                "RightFoot",
+                "RightFootIndexDistal",
+                "RightFootIndexIntermediate",
+                "RightFootIndexProximal",
+                "RightFootLittleDistal",
+                "RightFootLittleIntermediate",
+                "RightFootLittleProximal",
+                "RightFootMiddleDistal",
+                "RightFootMiddleIntermediate",
+                "RightFootMiddleProximal",
+                "RightFootRingDistal",
+                "RightFootRingIntermediate",
+                "RightFootRingProximal",
+                "RightFootThumbDistal",
+                "RightFootThumbIntermediate",
+                "RightFootThumbProximal",
+                "RightLowerLeg",
+                "RightToes"
+            ],
+            "sourceBlendShapeSettings": [
+                {
+                    "name": "Highheel",
+                    "value": 1.000
+                }
+            ],
+            "targetBlendShapeSettings": [
+                {
+                    "name": "Highheels",
+                    "value": 1.000
+                }
+            ]
+        }
+    ],
+    "baseAvatarDataPath": "avatar_data_template.json",
+    "clothingAvatarDataPath": "avatar_data_beryl4.json",
+    "clothingBlendShapeSettings": [],
+    "clothingBlendShapeSettingsInv": []
+}

@@ -1,0 +1,641 @@
+{
+  "schemaVersion": 1,
+  "avatarName": "neolithe_blender_devkit_1_0_0_raw_usertpose3_baked",
+  "templateName": "template",
+  "stagesRun": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G"
+  ],
+  "overall": "warning",
+  "concerns": [
+    {
+      "code": "joint_error",
+      "severity": "warning",
+      "context": "neck",
+      "metricValue": 47.069190979003906,
+      "threshold": 25,
+      "messageJa": "ボーンソルバー: Neck の誤差が 47.1mm (目安 25mm 以下)",
+      "messageEn": "Bone solver: neck error 47.1mm (guideline <= 25mm)"
+    },
+    {
+      "code": "joint_error",
+      "severity": "warning",
+      "context": "upper_arm_l",
+      "metricValue": 47.1236572265625,
+      "threshold": 25,
+      "messageJa": "ボーンソルバー: Left 腕付け根 の誤差が 47.1mm (目安 25mm 以下)",
+      "messageEn": "Bone solver: upper_arm_l error 47.1mm (guideline <= 25mm)"
+    },
+    {
+      "code": "joint_error",
+      "severity": "warning",
+      "context": "upper_arm_r",
+      "metricValue": 47.12324523925781,
+      "threshold": 25,
+      "messageJa": "ボーンソルバー: Right 腕付け根 の誤差が 47.1mm (目安 25mm 以下)",
+      "messageEn": "Bone solver: upper_arm_r error 47.1mm (guideline <= 25mm)"
+    },
+    {
+      "code": "field_selfcheck",
+      "severity": "warning",
+      "context": "silhouette_foot",
+      "metricValue": 11.229397845360154,
+      "threshold": 1,
+      "messageJa": "変形フィールド silhouette_foot の自己検証誤差が大きい (平均 1.12mm / 最大 11.23mm, 目安 平均 1.0mm・最大 35mm 以下)",
+      "messageEn": "Deformation field silhouette_foot self-check error is high (mean 1.12mm / max 11.23mm, guideline mean <= 1.0mm, max <= 35mm)"
+    },
+    {
+      "code": "wrap_body_uncovered",
+      "severity": "info",
+      "context": "fwd_main",
+      "metricValue": 0.024998315477393708,
+      "threshold": 0.02,
+      "messageJa": "順方向ラップ(main): 体表の 2.5% が未被覆 (やや多め、目安 2.0% 以下)",
+      "messageEn": "Forward wrap (main): 2.5% of the body surface uncovered (slightly high, guideline <= 2.0%)"
+    }
+  ],
+  "wraps": [
+    {
+      "label": "fwd_main",
+      "omochiName": "Template_to_neolithe_blender_devkit_1_0_0_raw_pre",
+      "signedOffsetP50Mm": 1.6481191851198673,
+      "signedOffsetP95Mm": 3.5669647622853518,
+      "penetrationRatio": 0.0006397952655150352,
+      "edgeRatioP05": 0.9447853943410544,
+      "edgeRatioP95": 1.2755642314433548,
+      "activeVertexCount": 10941,
+      "gapInTolRatio": 0.9957956311123297,
+      "deviationCount": 0,
+      "maxDeviationMm": 7.196103222668171,
+      "bodyCoverageEvaluated": true,
+      "bodyUncovered": 371,
+      "bodyTotal": 14841,
+      "bodyFar": 0,
+      "toeUncovered": 206,
+      "toeTotal": 7804,
+      "tipPenetrating": 33,
+      "coverEligibleCount": 4190,
+      "toeHulls": [
+        {
+          "side": "L",
+          "evaluated": true,
+          "covered": 1266,
+          "total": 1403
+        },
+        {
+          "side": "R",
+          "evaluated": true,
+          "covered": 1266,
+          "total": 1403
+        }
+      ]
+    },
+    {
+      "label": "fwd_highheels",
+      "omochiName": "Template_to_neolithe_blender_devkit_1_0_0_raw_pre_Highheels",
+      "signedOffsetP50Mm": 1.650407211855054,
+      "signedOffsetP95Mm": 3.568748477846384,
+      "penetrationRatio": 0.00045699661822502514,
+      "edgeRatioP05": 0.9417544472362923,
+      "edgeRatioP95": 1.286198980781632,
+      "activeVertexCount": 10941,
+      "gapInTolRatio": 0.9960698290832648,
+      "deviationCount": 0,
+      "maxDeviationMm": 7.467721123248339,
+      "bodyCoverageEvaluated": true,
+      "bodyUncovered": 287,
+      "bodyTotal": 14781,
+      "bodyFar": 0,
+      "toeUncovered": 163,
+      "toeTotal": 7805,
+      "tipPenetrating": 31,
+      "coverEligibleCount": 4190,
+      "toeHulls": [
+        {
+          "side": "L",
+          "evaluated": true,
+          "covered": 1128,
+          "total": 1403
+        },
+        {
+          "side": "R",
+          "evaluated": true,
+          "covered": 1129,
+          "total": 1404
+        }
+      ]
+    }
+  ],
+  "jointErrors": [
+    {
+      "key": "chest",
+      "labelJa": "Chest",
+      "value": 45.88978576660156,
+      "unit": "mm",
+      "scored": false
+    },
+    {
+      "key": "neck",
+      "labelJa": "Neck",
+      "value": 47.069190979003906,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "head",
+      "labelJa": "Head",
+      "value": 8.991758346557617,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "upper_arm_l",
+      "labelJa": "Left 腕付け根",
+      "value": 47.1236572265625,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "elbow_l",
+      "labelJa": "Left 肘",
+      "value": 0.0003588674881029874,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "wrist_l",
+      "labelJa": "Left 手首",
+      "value": 0.001141696935519576,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "knee_l",
+      "labelJa": "Left 膝",
+      "value": 0.0020022664684802294,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "upper_arm_r",
+      "labelJa": "Right 腕付け根",
+      "value": 47.12324523925781,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "elbow_r",
+      "labelJa": "Right 肘",
+      "value": 0.00037090497789904475,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "wrist_r",
+      "labelJa": "Right 手首",
+      "value": 0.00018560340686235577,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "knee_r",
+      "labelJa": "Right 膝",
+      "value": 0.0010879011824727058,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "sole_l",
+      "labelJa": "Left 足裏",
+      "value": 0.31432822346687317,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "sole_r",
+      "labelJa": "Right 足裏",
+      "value": 0.3141622841358185,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "toe_forward_l",
+      "labelJa": "Left つま先前方",
+      "value": 0.15932321548461914,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "toe_forward_r",
+      "labelJa": "Right つま先前方",
+      "value": 0.159338116645813,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "heel_height_l",
+      "labelJa": "Left かかと高さ",
+      "value": 1.2664682865142822,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "heel_forward_l",
+      "labelJa": "Left かかと前後",
+      "value": 5.468174934387207,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "sole_pitch_deg_l",
+      "labelJa": "Left 足裏角度",
+      "value": 0.30957625128120947,
+      "unit": "deg",
+      "scored": true
+    },
+    {
+      "key": "heel_height_r",
+      "labelJa": "Right かかと高さ",
+      "value": 1.266257882118225,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "heel_forward_r",
+      "labelJa": "Right かかと前後",
+      "value": 5.468290328979492,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "sole_pitch_deg_r",
+      "labelJa": "Right 足裏角度",
+      "value": 0.3095435855297802,
+      "unit": "deg",
+      "scored": true
+    },
+    {
+      "key": "crotch_height",
+      "labelJa": "股下高さ",
+      "value": -1.2167096138000488,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "arm_root_height",
+      "labelJa": "腕付け根高さ",
+      "value": 0.8669495582580566,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "upper_body_length",
+      "labelJa": "上半身長差",
+      "value": 2.0836591720581055,
+      "unit": "mm",
+      "scored": true
+    },
+    {
+      "key": "breast_height",
+      "labelJa": "胸高さ",
+      "value": -11.475113367806822,
+      "unit": "mm",
+      "scored": false
+    }
+  ],
+  "gates": [
+    {
+      "name": "fb_axis_neck_deg",
+      "value": 20.01552524818995,
+      "band": "[-15.0000,15.0000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "fb_axis_neck_deg",
+      "value": 20.01552524818995,
+      "band": "[-15.0000,15.0000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "fb_axis_neck_deg",
+      "value": 20.01552524818995,
+      "band": "[-15.0000,15.0000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "finger_girth_rel",
+      "value": 1.0111119302685077,
+      "band": "[0.8000,1.2500]",
+      "fired": false,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "foot_pitch_drift_Left",
+      "value": 4.169752090119584,
+      "band": "[-0.5000,0.5000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "foot_pitch_drift_Left",
+      "value": 4.146391812637367,
+      "band": "[-0.5000,0.5000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "foot_pitch_drift_Left",
+      "value": 4.103565076062521,
+      "band": "[-0.5000,0.5000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "foot_pitch_drift_Right",
+      "value": 4.169710255104557,
+      "band": "[-0.5000,0.5000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "foot_pitch_drift_Right",
+      "value": 4.1463341215698994,
+      "band": "[-0.5000,0.5000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "foot_pitch_drift_Right",
+      "value": 4.103467935955961,
+      "band": "[-0.5000,0.5000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "hand_width_Left",
+      "value": 1.1530555688949513,
+      "band": "[0.9091,1.1000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "Stage B"
+    },
+    {
+      "name": "hand_width_Left",
+      "value": 1.1530565861525062,
+      "band": "[0.9091,1.1000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "Stage B"
+    },
+    {
+      "name": "hand_width_Left",
+      "value": 1.153054385875642,
+      "band": "[0.9091,1.1000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "Stage B"
+    },
+    {
+      "name": "hand_width_Right",
+      "value": 1.153036988211705,
+      "band": "[0.9091,1.1000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "Stage B"
+    },
+    {
+      "name": "hand_width_Right",
+      "value": 1.1530352766762264,
+      "band": "[0.9091,1.1000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "Stage B"
+    },
+    {
+      "name": "hand_width_Right",
+      "value": 1.1530366849507065,
+      "band": "[0.9091,1.1000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "Stage B"
+    },
+    {
+      "name": "hips_equalize_u",
+      "value": 1.1585677749981638,
+      "band": "[0.9000,1.1000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "main_heel_need_deg",
+      "value": 1.13665134111054,
+      "band": "[-inf,0.5000]",
+      "fired": true,
+      "nearEdge": false,
+      "context": ""
+    },
+    {
+      "name": "wrap_micro_cap_saturation",
+      "value": 0.1951219512195122,
+      "band": "[-inf,+inf]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "fwd_highheels 飽和 120/615 頂点, cap 1.5mm"
+    },
+    {
+      "name": "wrap_micro_cap_saturation",
+      "value": 0.11101836393989983,
+      "band": "[-inf,+inf]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "fwd_highheels 飽和 133/1198 頂点, cap 1.5mm"
+    },
+    {
+      "name": "wrap_micro_cap_saturation",
+      "value": 0.08217362491716368,
+      "band": "[-inf,+inf]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "fwd_main 飽和 124/1509 頂点, cap 1.5mm"
+    },
+    {
+      "name": "wrap_micro_cap_saturation",
+      "value": 0.13585434173669467,
+      "band": "[-inf,+inf]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "fwd_main 飽和 97/714 頂点, cap 1.5mm"
+    },
+    {
+      "name": "wrap_relax_core",
+      "value": 0,
+      "band": "[-inf,+inf]",
+      "fired": false,
+      "nearEdge": false,
+      "context": "fwd_highheels crease辺 0 / 圧縮辺 0"
+    },
+    {
+      "name": "wrap_relax_core",
+      "value": 5,
+      "band": "[-inf,+inf]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "fwd_highheels crease辺 3 / 圧縮辺 0"
+    },
+    {
+      "name": "wrap_relax_core",
+      "value": 0,
+      "band": "[-inf,+inf]",
+      "fired": false,
+      "nearEdge": false,
+      "context": "fwd_main crease辺 0 / 圧縮辺 0"
+    },
+    {
+      "name": "wrap_relax_core",
+      "value": 0,
+      "band": "[-inf,+inf]",
+      "fired": false,
+      "nearEdge": false,
+      "context": "fwd_main crease辺 0 / 圧縮辺 0"
+    },
+    {
+      "name": "wrap_relax_move_mm",
+      "value": 4.011831246316433,
+      "band": "[-inf,+inf]",
+      "fired": true,
+      "nearEdge": false,
+      "context": "fwd_highheels core 5 / マスク 26 / クランプ 0"
+    },
+    {
+      "name": "wrap_xpen_cap_saturation",
+      "value": 0,
+      "band": "[-inf,+inf]",
+      "fired": false,
+      "nearEdge": false,
+      "context": "fwd_highheels 飽和 0/11 頂点, cap 6.0mm, 残交差 10"
+    },
+    {
+      "name": "wrap_xpen_cap_saturation",
+      "value": 0,
+      "band": "[-inf,+inf]",
+      "fired": false,
+      "nearEdge": false,
+      "context": "fwd_highheels 飽和 0/110 頂点, cap 6.0mm, 残交差 1089"
+    },
+    {
+      "name": "wrap_xpen_cap_saturation",
+      "value": 0,
+      "band": "[-inf,+inf]",
+      "fired": false,
+      "nearEdge": false,
+      "context": "fwd_highheels 飽和 0/128 頂点, cap 6.0mm, 残交差 1079"
+    },
+    {
+      "name": "wrap_xpen_cap_saturation",
+      "value": 0,
+      "band": "[-inf,+inf]",
+      "fired": false,
+      "nearEdge": false,
+      "context": "fwd_main 飽和 0/85 頂点, cap 6.0mm, 残交差 841"
+    },
+    {
+      "name": "wrap_xpen_cap_saturation",
+      "value": 0,
+      "band": "[-inf,+inf]",
+      "fired": false,
+      "nearEdge": false,
+      "context": "fwd_main 飽和 0/95 頂点, cap 6.0mm, 残交差 865"
+    }
+  ],
+  "fieldChecks": [
+    {
+      "name": "template_to_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked",
+      "meanMm": 0.3508268603026324,
+      "maxMm": 11.23727232355443
+    },
+    {
+      "name": "template_to_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_highheels",
+      "meanMm": 0.41378217558089264,
+      "maxMm": 12.170985429841185
+    },
+    {
+      "name": "silhouette_arms",
+      "meanMm": 0.19447516552211813,
+      "maxMm": 2.0432986204246655
+    },
+    {
+      "name": "silhouette_arms_expand",
+      "meanMm": 0.1886727374438076,
+      "maxMm": 2.042655490920249
+    },
+    {
+      "name": "silhouette_upper_body",
+      "meanMm": 0.3138804781034681,
+      "maxMm": 3.2557723305439334
+    },
+    {
+      "name": "silhouette_upper_body_expand",
+      "meanMm": 0.32108923562051844,
+      "maxMm": 3.6984657084291332
+    },
+    {
+      "name": "silhouette_hips",
+      "meanMm": 0.546740121213796,
+      "maxMm": 9.93119563692577
+    },
+    {
+      "name": "silhouette_hips_expand",
+      "meanMm": 0.6760977740150953,
+      "maxMm": 10.018640327546194
+    },
+    {
+      "name": "silhouette_upper_legs",
+      "meanMm": 0.4883168538873579,
+      "maxMm": 9.79292839122657
+    },
+    {
+      "name": "silhouette_upper_legs_expand",
+      "meanMm": 0.5977818014685615,
+      "maxMm": 10.0828784012658
+    },
+    {
+      "name": "silhouette_lower_legs",
+      "meanMm": 0.16410306869390828,
+      "maxMm": 3.1754278096093516
+    },
+    {
+      "name": "silhouette_lower_legs_expand",
+      "meanMm": 0.15781352452838326,
+      "maxMm": 3.1958122409801493
+    },
+    {
+      "name": "silhouette_foot",
+      "meanMm": 1.1202879687509455,
+      "maxMm": 11.229397845360154
+    },
+    {
+      "name": "silhouette_foot_expand",
+      "meanMm": 0.838133436559823,
+      "maxMm": 10.913659014159727
+    }
+  ]
+}

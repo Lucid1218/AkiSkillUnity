@@ -1,0 +1,1341 @@
+{
+  "name": "neolithe_blender_devkit_1_0_0_raw_usertpose3_baked",
+  "defaultFBXPath": "Assets/Neolithe Blender DevKit 1.0.0_raw_userTpose3_baked.fbx",
+  "meshName": "Mannequin",
+  "height": 1.494276,
+  "enableAutomaticBoneOrientation": 0,
+  "blendshapes": [
+    {
+      "name": "Neobelly",
+      "value": 0.0
+    },
+    {
+      "name": "Buff",
+      "value": 0.0
+    },
+    {
+      "name": "--- BOOBS SIZES ---",
+      "value": 0.0
+    },
+    {
+      "name": "Default XS",
+      "value": 0.0
+    },
+    {
+      "name": "Default S (Default)",
+      "value": 0
+    },
+    {
+      "name": "Default M",
+      "value": 100
+    },
+    {
+      "name": "Default L",
+      "value": 0.0
+    },
+    {
+      "name": "--- BOOBS SHAPES ---",
+      "value": 0.0
+    },
+    {
+      "name": "Almond",
+      "value": 0.0
+    },
+    {
+      "name": "Hazelnut",
+      "value": 0.0
+    },
+    {
+      "name": "Macadamia",
+      "value": 0.0
+    },
+    {
+      "name": "Pushup",
+      "value": 0.0
+    },
+    {
+      "name": "--- USE ALONE ---",
+      "value": 0.0
+    },
+    {
+      "name": "Almond XS",
+      "value": 0.0
+    },
+    {
+      "name": "Flat",
+      "value": 0.0
+    },
+    {
+      "name": "--- BOOBS SFW ---",
+      "value": 0.0
+    },
+    {
+      "name": "Flat nipples",
+      "value": 0.0
+    },
+    {
+      "name": "Flat flat nipples",
+      "value": 0.0
+    },
+    {
+      "name": "--- GENITALIA SHAPE ---",
+      "value": 0.0
+    },
+    {
+      "name": "Gen A (Default)",
+      "value": 100
+    },
+    {
+      "name": "Gen B",
+      "value": 0.0
+    },
+    {
+      "name": "Gen C",
+      "value": 0.0
+    },
+    {
+      "name": "SFW",
+      "value": 0.0
+    },
+    {
+      "name": "Bulge (ACTIVATE ON HIPS)",
+      "value": 0.0
+    },
+    {
+      "name": "--- OTHERS ---",
+      "value": 0.0
+    },
+    {
+      "name": "Puffy",
+      "value": 0.0
+    },
+    {
+      "name": "SFW Anus",
+      "value": 0.0
+    },
+    {
+      "name": "--- HIPS SIZES ---",
+      "value": 0.0
+    },
+    {
+      "name": "S",
+      "value": 0.0
+    },
+    {
+      "name": "M (Default)",
+      "value": 100
+    },
+    {
+      "name": "L",
+      "value": 0.0
+    },
+    {
+      "name": "Bulge",
+      "value": 0.0
+    },
+    {
+      "name": "--- SHIN SHAPES ---",
+      "value": 0.0
+    },
+    {
+      "name": "Shin Default",
+      "value": 0.0
+    },
+    {
+      "name": "Shin Thicker",
+      "value": 0.0
+    },
+    {
+      "name": "--- FEET ---",
+      "value": 0.0
+    },
+    {
+      "name": "Heels",
+      "value": 0
+    }
+  ],
+  "humanoidBones": [
+    {
+      "humanoidBoneName": "Hips",
+      "boneName": "n_hara"
+    },
+    {
+      "humanoidBoneName": "LeftUpperLeg",
+      "boneName": "j_asi_a_l"
+    },
+    {
+      "humanoidBoneName": "RightUpperLeg",
+      "boneName": "j_asi_a_r"
+    },
+    {
+      "humanoidBoneName": "LeftLowerLeg",
+      "boneName": "j_asi_c_l"
+    },
+    {
+      "humanoidBoneName": "RightLowerLeg",
+      "boneName": "j_asi_c_r"
+    },
+    {
+      "humanoidBoneName": "LeftFoot",
+      "boneName": "j_asi_d_l"
+    },
+    {
+      "humanoidBoneName": "RightFoot",
+      "boneName": "j_asi_d_r"
+    },
+    {
+      "humanoidBoneName": "Spine",
+      "boneName": "j_sebo_a"
+    },
+    {
+      "humanoidBoneName": "Chest",
+      "boneName": "j_sebo_b"
+    },
+    {
+      "humanoidBoneName": "Neck",
+      "boneName": "j_kubi"
+    },
+    {
+      "humanoidBoneName": "Head",
+      "boneName": "j_kao"
+    },
+    {
+      "humanoidBoneName": "LeftShoulder",
+      "boneName": "j_sako_l"
+    },
+    {
+      "humanoidBoneName": "RightShoulder",
+      "boneName": "j_sako_r"
+    },
+    {
+      "humanoidBoneName": "LeftUpperArm",
+      "boneName": "j_ude_a_l"
+    },
+    {
+      "humanoidBoneName": "RightUpperArm",
+      "boneName": "j_ude_a_r"
+    },
+    {
+      "humanoidBoneName": "LeftLowerArm",
+      "boneName": "j_ude_b_l"
+    },
+    {
+      "humanoidBoneName": "RightLowerArm",
+      "boneName": "j_ude_b_r"
+    },
+    {
+      "humanoidBoneName": "LeftHand",
+      "boneName": "j_te_l"
+    },
+    {
+      "humanoidBoneName": "RightHand",
+      "boneName": "j_te_r"
+    },
+    {
+      "humanoidBoneName": "LeftToes",
+      "boneName": "j_asi_e_l"
+    },
+    {
+      "humanoidBoneName": "RightToes",
+      "boneName": "j_asi_e_r"
+    },
+    {
+      "humanoidBoneName": "LeftThumbProximal",
+      "boneName": "j_oya_a_l"
+    },
+    {
+      "humanoidBoneName": "LeftThumbIntermediate",
+      "boneName": "j_oya_b_l"
+    },
+    {
+      "humanoidBoneName": "LeftThumbDistal",
+      "boneName": "j_oya_b_l_end"
+    },
+    {
+      "humanoidBoneName": "RightThumbProximal",
+      "boneName": "j_oya_a_r"
+    },
+    {
+      "humanoidBoneName": "RightThumbIntermediate",
+      "boneName": "j_oya_b_r"
+    },
+    {
+      "humanoidBoneName": "RightThumbDistal",
+      "boneName": "j_oya_b_r_end"
+    },
+    {
+      "humanoidBoneName": "LeftIndexProximal",
+      "boneName": "j_hito_a_l"
+    },
+    {
+      "humanoidBoneName": "LeftIndexIntermediate",
+      "boneName": "j_hito_b_l"
+    },
+    {
+      "humanoidBoneName": "LeftIndexDistal",
+      "boneName": "j_hito_b_l_end"
+    },
+    {
+      "humanoidBoneName": "LeftMiddleProximal",
+      "boneName": "j_naka_a_l"
+    },
+    {
+      "humanoidBoneName": "LeftMiddleIntermediate",
+      "boneName": "j_naka_b_l"
+    },
+    {
+      "humanoidBoneName": "LeftMiddleDistal",
+      "boneName": "j_naka_b_l_end"
+    },
+    {
+      "humanoidBoneName": "LeftRingProximal",
+      "boneName": "j_kusu_a_l"
+    },
+    {
+      "humanoidBoneName": "LeftRingIntermediate",
+      "boneName": "j_kusu_b_l"
+    },
+    {
+      "humanoidBoneName": "LeftRingDistal",
+      "boneName": "j_kusu_b_l_end"
+    },
+    {
+      "humanoidBoneName": "LeftLittleProximal",
+      "boneName": "j_ko_a_l"
+    },
+    {
+      "humanoidBoneName": "LeftLittleIntermediate",
+      "boneName": "j_ko_b_l"
+    },
+    {
+      "humanoidBoneName": "LeftLittleDistal",
+      "boneName": "j_ko_b_l_end"
+    },
+    {
+      "humanoidBoneName": "RightIndexProximal",
+      "boneName": "j_hito_a_r"
+    },
+    {
+      "humanoidBoneName": "RightIndexIntermediate",
+      "boneName": "j_hito_b_r"
+    },
+    {
+      "humanoidBoneName": "RightIndexDistal",
+      "boneName": "j_hito_b_r_end"
+    },
+    {
+      "humanoidBoneName": "RightMiddleProximal",
+      "boneName": "j_naka_a_r"
+    },
+    {
+      "humanoidBoneName": "RightMiddleIntermediate",
+      "boneName": "j_naka_b_r"
+    },
+    {
+      "humanoidBoneName": "RightMiddleDistal",
+      "boneName": "j_naka_b_r_end"
+    },
+    {
+      "humanoidBoneName": "RightRingProximal",
+      "boneName": "j_kusu_a_r"
+    },
+    {
+      "humanoidBoneName": "RightRingIntermediate",
+      "boneName": "j_kusu_b_r"
+    },
+    {
+      "humanoidBoneName": "RightRingDistal",
+      "boneName": "j_kusu_b_r_end"
+    },
+    {
+      "humanoidBoneName": "RightLittleProximal",
+      "boneName": "j_ko_a_r"
+    },
+    {
+      "humanoidBoneName": "RightLittleIntermediate",
+      "boneName": "j_ko_b_r"
+    },
+    {
+      "humanoidBoneName": "RightLittleDistal",
+      "boneName": "j_ko_b_r_end"
+    },
+    {
+      "humanoidBoneName": "UpperChest",
+      "boneName": "j_sebo_c"
+    },
+    {
+      "humanoidBoneName": "LeftBreast",
+      "boneName": "j_mune_l"
+    },
+    {
+      "humanoidBoneName": "RightBreast",
+      "boneName": "j_mune_r"
+    }
+  ],
+  "boneHierarchy": {
+    "name": "Neolithe Blender DevKit 1.0.0_raw_new",
+    "children": [
+      {
+        "name": "Skeleton",
+        "children": [
+          {
+            "name": "n_root",
+            "children": [
+              {
+                "name": "n_hara",
+                "children": [
+                  {
+                    "name": "j_kosi",
+                    "children": [
+                      {
+                        "name": "iv_inshin_l",
+                        "children": []
+                      },
+                      {
+                        "name": "iv_inshin_r",
+                        "children": []
+                      },
+                      {
+                        "name": "iv_koumon",
+                        "children": []
+                      },
+                      {
+                        "name": "iv_koumon_l",
+                        "children": []
+                      },
+                      {
+                        "name": "iv_koumon_r",
+                        "children": []
+                      },
+                      {
+                        "name": "iv_kuritto",
+                        "children": []
+                      },
+                      {
+                        "name": "iv_omanko",
+                        "children": []
+                      },
+                      {
+                        "name": "iv_shiri_l",
+                        "children": []
+                      },
+                      {
+                        "name": "iv_shiri_r",
+                        "children": []
+                      },
+                      {
+                        "name": "j_asi_a_l",
+                        "children": [
+                          {
+                            "name": "iv_daitai_phys_l",
+                            "children": []
+                          },
+                          {
+                            "name": "j_asi_b_l",
+                            "children": [
+                              {
+                                "name": "j_asi_c_l",
+                                "children": [
+                                  {
+                                    "name": "j_asi_d_l",
+                                    "children": [
+                                      {
+                                        "name": "j_asi_e_l",
+                                        "children": [
+                                          {
+                                            "name": "j_asi_e_l",
+                                            "children": [
+                                              {
+                                                "name": "iv_asi_hito_b_l",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "iv_asi_ko_a_l",
+                                            "children": [
+                                              {
+                                                "name": "iv_asi_ko_b_l",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "iv_asi_kusu_a_l",
+                                            "children": [
+                                              {
+                                                "name": "iv_asi_kusu_b_l",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "iv_asi_naka_a_l",
+                                            "children": [
+                                              {
+                                                "name": "iv_asi_naka_b_l",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "iv_asi_oya_a_l",
+                                            "children": [
+                                              {
+                                                "name": "iv_asi_oya_b_l",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "ya_daitai_phys_l",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "j_asi_a_r",
+                        "children": [
+                          {
+                            "name": "iv_daitai_phys_r",
+                            "children": []
+                          },
+                          {
+                            "name": "j_asi_b_r",
+                            "children": [
+                              {
+                                "name": "j_asi_c_r",
+                                "children": [
+                                  {
+                                    "name": "j_asi_d_r",
+                                    "children": [
+                                      {
+                                        "name": "j_asi_e_r",
+                                        "children": [
+                                          {
+                                            "name": "j_asi_e_r",
+                                            "children": [
+                                              {
+                                                "name": "iv_asi_hito_b_r",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "iv_asi_ko_a_r",
+                                            "children": [
+                                              {
+                                                "name": "iv_asi_ko_b_r",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "iv_asi_kusu_a_r",
+                                            "children": [
+                                              {
+                                                "name": "iv_asi_kusu_b_r",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "iv_asi_naka_a_r",
+                                            "children": [
+                                              {
+                                                "name": "iv_asi_naka_b_r",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "iv_asi_oya_a_r",
+                                            "children": [
+                                              {
+                                                "name": "iv_asi_oya_b_r",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "ya_daitai_phys_r",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "ya_shiri_phys_l",
+                        "children": []
+                      },
+                      {
+                        "name": "ya_shiri_phys_r",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "j_sebo_a",
+                    "children": [
+                      {
+                        "name": "j_sebo_b",
+                        "children": [
+                          {
+                            "name": "j_mune_l",
+                            "children": [
+                              {
+                                "name": "j_mune_l",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "j_mune_r",
+                            "children": [
+                              {
+                                "name": "j_mune_r",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "j_sebo_c",
+                            "children": [
+                              {
+                                "name": "j_kubi",
+                                "children": [
+                                  {
+                                    "name": "j_kao",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "j_sako_l",
+                                "children": [
+                                  {
+                                    "name": "j_ude_a_l",
+                                    "children": [
+                                      {
+                                        "name": "iv_nitoukin_l",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "j_ude_b_l",
+                                        "children": [
+                                          {
+                                            "name": "j_te_l",
+                                            "children": [
+                                              {
+                                                "name": "j_hito_a_l",
+                                                "children": [
+                                                  {
+                                                    "name": "j_hito_b_l",
+                                                    "children": [
+                                                      {
+                                                        "name": "j_hito_b_l_end",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "j_ko_a_l",
+                                                "children": [
+                                                  {
+                                                    "name": "j_ko_b_l",
+                                                    "children": [
+                                                      {
+                                                        "name": "j_ko_b_l_end",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "j_kusu_a_l",
+                                                "children": [
+                                                  {
+                                                    "name": "j_kusu_b_l",
+                                                    "children": [
+                                                      {
+                                                        "name": "j_kusu_b_l_end",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "j_naka_a_l",
+                                                "children": [
+                                                  {
+                                                    "name": "j_naka_b_l",
+                                                    "children": [
+                                                      {
+                                                        "name": "j_naka_b_l_end",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "j_oya_a_l",
+                                                "children": [
+                                                  {
+                                                    "name": "j_oya_b_l",
+                                                    "children": []
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "n_hhiji_l",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "n_hte_l",
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "n_hkata_l",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "j_sako_r",
+                                "children": [
+                                  {
+                                    "name": "j_ude_a_r",
+                                    "children": [
+                                      {
+                                        "name": "iv_nitoukin_r",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "j_ude_b_r",
+                                        "children": [
+                                          {
+                                            "name": "j_te_r",
+                                            "children": [
+                                              {
+                                                "name": "j_hito_a_r",
+                                                "children": [
+                                                  {
+                                                    "name": "j_hito_b_r",
+                                                    "children": [
+                                                      {
+                                                        "name": "j_hito_b_r_end",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "j_ko_a_r",
+                                                "children": [
+                                                  {
+                                                    "name": "j_ko_b_r",
+                                                    "children": [
+                                                      {
+                                                        "name": "j_ko_b_r_end",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "j_kusu_a_r",
+                                                "children": [
+                                                  {
+                                                    "name": "j_kusu_b_r",
+                                                    "children": [
+                                                      {
+                                                        "name": "j_kusu_b_r_end",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "j_naka_a_r",
+                                                "children": [
+                                                  {
+                                                    "name": "j_naka_b_r",
+                                                    "children": [
+                                                      {
+                                                        "name": "j_naka_b_r_end",
+                                                        "children": []
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              },
+                                              {
+                                                "name": "j_oya_a_r",
+                                                "children": [
+                                                  {
+                                                    "name": "j_oya_b_r",
+                                                    "children": []
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "n_hhiji_r",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "n_hte_r",
+                                            "children": []
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "n_hkata_r",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "auxiliaryBones": [
+    {
+      "humanoidBoneName": "Hips",
+      "auxiliaryBones": [
+        "j_kosi",
+        "iv_inshin_l",
+        "iv_inshin_r",
+        "iv_koumon",
+        "iv_koumon_l",
+        "iv_koumon_r",
+        "iv_kuritto",
+        "iv_omanko",
+        "iv_shiri_l",
+        "iv_shiri_r",
+        "ya_shiri_phys_l",
+        "ya_shiri_phys_r"
+      ]
+    },
+    {
+      "humanoidBoneName": "LeftUpperLeg",
+      "auxiliaryBones": [
+        "iv_daitai_phys_l",
+        "j_asi_b_l",
+        "ya_daitai_phys_l"
+      ]
+    },
+    {
+      "humanoidBoneName": "RightUpperLeg",
+      "auxiliaryBones": [
+        "iv_daitai_phys_r",
+        "j_asi_b_r",
+        "ya_daitai_phys_r"
+      ]
+    },
+    {
+      "humanoidBoneName": "LeftFoot",
+      "auxiliaryBones": [
+        "j_asi_e_l",
+        "iv_asi_ko_a_l",
+        "iv_asi_ko_b_l",
+        "iv_asi_kusu_a_l",
+        "iv_asi_kusu_b_l",
+        "iv_asi_naka_a_l",
+        "iv_asi_naka_b_l",
+        "iv_asi_oya_a_l",
+        "iv_asi_oya_b_l"
+      ]
+    },
+    {
+      "humanoidBoneName": "RightFoot",
+      "auxiliaryBones": [
+        "j_asi_e_r",
+        "iv_asi_ko_a_r",
+        "iv_asi_ko_b_r",
+        "iv_asi_kusu_a_r",
+        "iv_asi_kusu_b_r",
+        "iv_asi_naka_a_r",
+        "iv_asi_naka_b_r",
+        "iv_asi_oya_a_r",
+        "iv_asi_oya_b_r"
+      ]
+    },
+    {
+      "humanoidBoneName": "LeftUpperArm",
+      "auxiliaryBones": [
+        "iv_nitoukin_l",
+        "n_hkata_l"
+      ]
+    },
+    {
+      "humanoidBoneName": "RightUpperArm",
+      "auxiliaryBones": [
+        "iv_nitoukin_r",
+        "n_hkata_r"
+      ]
+    },
+    {
+      "humanoidBoneName": "LeftLowerArm",
+      "auxiliaryBones": [
+        "n_hhiji_l",
+        "n_hte_l"
+      ]
+    },
+    {
+      "humanoidBoneName": "RightLowerArm",
+      "auxiliaryBones": [
+        "n_hhiji_r",
+        "n_hte_r"
+      ]
+    },
+    {
+      "humanoidBoneName": "LeftHand",
+      "auxiliaryBones": [
+        "j_oya_a_l",
+        "j_oya_b_l"
+      ]
+    },
+    {
+      "humanoidBoneName": "RightHand",
+      "auxiliaryBones": [
+        "j_oya_a_r",
+        "j_oya_b_r"
+      ]
+    },
+    {
+      "humanoidBoneName": "LeftToes",
+      "auxiliaryBones": [
+        "iv_asi_hito_b_l"
+      ]
+    },
+    {
+      "humanoidBoneName": "RightToes",
+      "auxiliaryBones": [
+        "iv_asi_hito_b_r"
+      ]
+    }
+  ],
+  "commonSwaySettings": {
+    "startDistance": 0.025,
+    "endDistance": 0.05
+  },
+  "swayBones": [],
+  "boneComponents": [],
+  "shrinkBlendShapes": [],
+  "blendShapeFields": [
+    {
+      "label": "Default L",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_shape_Default L.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "LeftUpperArm",
+        "RightBreast",
+        "RightShoulder",
+        "RightUpperArm",
+        "UpperChest"
+      ]
+    },
+    {
+      "label": "Flat",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_shape_Flat.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "LeftUpperArm",
+        "RightBreast",
+        "RightShoulder",
+        "RightUpperArm",
+        "UpperChest"
+      ]
+    },
+    {
+      "label": "Heels",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_shape_Heels.npz",
+      "maskBones": [
+        "LeftFoot",
+        "LeftFootIndexDistal",
+        "LeftFootIndexIntermediate",
+        "LeftFootIndexProximal",
+        "LeftFootLittleDistal",
+        "LeftFootLittleIntermediate",
+        "LeftFootLittleProximal",
+        "LeftFootMiddleDistal",
+        "LeftFootMiddleIntermediate",
+        "LeftFootMiddleProximal",
+        "LeftFootRingDistal",
+        "LeftFootRingIntermediate",
+        "LeftFootRingProximal",
+        "LeftFootThumbDistal",
+        "LeftFootThumbIntermediate",
+        "LeftFootThumbProximal",
+        "LeftLowerLeg",
+        "LeftToes",
+        "RightFoot",
+        "RightFootIndexDistal",
+        "RightFootIndexIntermediate",
+        "RightFootIndexProximal",
+        "RightFootLittleDistal",
+        "RightFootLittleIntermediate",
+        "RightFootLittleProximal",
+        "RightFootMiddleDistal",
+        "RightFootMiddleIntermediate",
+        "RightFootMiddleProximal",
+        "RightFootRingDistal",
+        "RightFootRingIntermediate",
+        "RightFootRingProximal",
+        "RightFootThumbDistal",
+        "RightFootThumbIntermediate",
+        "RightFootThumbProximal",
+        "RightLowerLeg",
+        "RightToes"
+      ]
+    },
+    {
+      "label": "Fit_Arms",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_arms.npz",
+      "maskBones": [
+        "LeftLowerArm",
+        "LeftUpperArm",
+        "RightLowerArm",
+        "RightUpperArm"
+      ]
+    },
+    {
+      "label": "Fit_UpperBody",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_upper_body.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "Neck",
+        "RightBreast",
+        "RightShoulder",
+        "Spine",
+        "UpperChest"
+      ]
+    },
+    {
+      "label": "Fit_Hips",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_hips.npz",
+      "maskBones": [
+        "Hips"
+      ]
+    },
+    {
+      "label": "Fit_UpperLegs",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_upper_legs.npz",
+      "maskBones": [
+        "LeftUpperLeg",
+        "RightUpperLeg"
+      ]
+    },
+    {
+      "label": "Fit_LowerLegs",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_lower_legs.npz",
+      "maskBones": [
+        "LeftLowerLeg",
+        "RightLowerLeg"
+      ]
+    },
+    {
+      "label": "Fit_Feet",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_foot.npz",
+      "maskBones": [
+        "LeftFoot",
+        "LeftToes",
+        "RightFoot",
+        "RightToes"
+      ]
+    },
+    {
+      "label": "Loose_Arms",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_arms_expand.npz",
+      "maskBones": [
+        "LeftLowerArm",
+        "LeftUpperArm",
+        "RightLowerArm",
+        "RightUpperArm"
+      ]
+    },
+    {
+      "label": "Loose_UpperBody",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_upper_body_expand.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "Neck",
+        "RightBreast",
+        "RightShoulder",
+        "Spine",
+        "UpperChest"
+      ]
+    },
+    {
+      "label": "Loose_Hips",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_hips_expand.npz",
+      "maskBones": [
+        "Hips"
+      ]
+    },
+    {
+      "label": "Loose_UpperLegs",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_upper_legs_expand.npz",
+      "maskBones": [
+        "LeftUpperLeg",
+        "RightUpperLeg"
+      ]
+    },
+    {
+      "label": "Loose_LowerLegs",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_lower_legs_expand.npz",
+      "maskBones": [
+        "LeftLowerLeg",
+        "RightLowerLeg"
+      ]
+    },
+    {
+      "label": "Loose_Feet",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_foot_expand.npz",
+      "maskBones": [
+        "LeftFoot",
+        "LeftToes",
+        "RightFoot",
+        "RightToes"
+      ]
+    }
+  ],
+  "invertedBlendShapeFields": [
+    {
+      "label": "Default L",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_shape_Default L_inv.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "LeftUpperArm",
+        "RightBreast",
+        "RightShoulder",
+        "RightUpperArm",
+        "UpperChest"
+      ]
+    },
+    {
+      "label": "Flat",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_shape_Flat_inv.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "LeftUpperArm",
+        "RightBreast",
+        "RightShoulder",
+        "RightUpperArm",
+        "UpperChest"
+      ]
+    },
+    {
+      "label": "Heels",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_shape_Heels_inv.npz",
+      "maskBones": [
+        "LeftFoot",
+        "LeftFootIndexDistal",
+        "LeftFootIndexIntermediate",
+        "LeftFootIndexProximal",
+        "LeftFootLittleDistal",
+        "LeftFootLittleIntermediate",
+        "LeftFootLittleProximal",
+        "LeftFootMiddleDistal",
+        "LeftFootMiddleIntermediate",
+        "LeftFootMiddleProximal",
+        "LeftFootRingDistal",
+        "LeftFootRingIntermediate",
+        "LeftFootRingProximal",
+        "LeftFootThumbDistal",
+        "LeftFootThumbIntermediate",
+        "LeftFootThumbProximal",
+        "LeftLowerLeg",
+        "LeftToes",
+        "RightFoot",
+        "RightFootIndexDistal",
+        "RightFootIndexIntermediate",
+        "RightFootIndexProximal",
+        "RightFootLittleDistal",
+        "RightFootLittleIntermediate",
+        "RightFootLittleProximal",
+        "RightFootMiddleDistal",
+        "RightFootMiddleIntermediate",
+        "RightFootMiddleProximal",
+        "RightFootRingDistal",
+        "RightFootRingIntermediate",
+        "RightFootRingProximal",
+        "RightFootThumbDistal",
+        "RightFootThumbIntermediate",
+        "RightFootThumbProximal",
+        "RightLowerLeg",
+        "RightToes"
+      ]
+    },
+    {
+      "label": "Fit_Arms",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_arms_inv.npz",
+      "maskBones": [
+        "LeftLowerArm",
+        "LeftUpperArm",
+        "RightLowerArm",
+        "RightUpperArm"
+      ]
+    },
+    {
+      "label": "Fit_UpperBody",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_upper_body_inv.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "Neck",
+        "RightBreast",
+        "RightShoulder",
+        "Spine",
+        "UpperChest"
+      ]
+    },
+    {
+      "label": "Fit_Hips",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_hips_inv.npz",
+      "maskBones": [
+        "Hips"
+      ]
+    },
+    {
+      "label": "Fit_UpperLegs",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_upper_legs_inv.npz",
+      "maskBones": [
+        "LeftUpperLeg",
+        "RightUpperLeg"
+      ]
+    },
+    {
+      "label": "Fit_LowerLegs",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_lower_legs_inv.npz",
+      "maskBones": [
+        "LeftLowerLeg",
+        "RightLowerLeg"
+      ]
+    },
+    {
+      "label": "Fit_Feet",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_foot_inv.npz",
+      "maskBones": [
+        "LeftFoot",
+        "LeftToes",
+        "RightFoot",
+        "RightToes"
+      ]
+    },
+    {
+      "label": "Loose_Arms",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_arms_expand_inv.npz",
+      "maskBones": [
+        "LeftLowerArm",
+        "LeftUpperArm",
+        "RightLowerArm",
+        "RightUpperArm"
+      ]
+    },
+    {
+      "label": "Loose_UpperBody",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_upper_body_expand_inv.npz",
+      "maskBones": [
+        "Chest",
+        "LeftBreast",
+        "LeftShoulder",
+        "Neck",
+        "RightBreast",
+        "RightShoulder",
+        "Spine",
+        "UpperChest"
+      ]
+    },
+    {
+      "label": "Loose_Hips",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_hips_expand_inv.npz",
+      "maskBones": [
+        "Hips"
+      ]
+    },
+    {
+      "label": "Loose_UpperLegs",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_upper_legs_expand_inv.npz",
+      "maskBones": [
+        "LeftUpperLeg",
+        "RightUpperLeg"
+      ]
+    },
+    {
+      "label": "Loose_LowerLegs",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_lower_legs_expand_inv.npz",
+      "maskBones": [
+        "LeftLowerLeg",
+        "RightLowerLeg"
+      ]
+    },
+    {
+      "label": "Loose_Feet",
+      "filePath": "deformation_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked_silhouette_foot_expand_inv.npz",
+      "maskBones": [
+        "LeftFoot",
+        "LeftToes",
+        "RightFoot",
+        "RightToes"
+      ]
+    }
+  ],
+  "basePose": "pose_basis_neolithe_blender_devkit_1_0_0_raw_usertpose3_baked.json"
+}

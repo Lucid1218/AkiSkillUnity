@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0ac2f329c2836e7439b69276e41566ed
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 1273990641, guid: 4da6d05567333e244ab2155abc025482, type: 3}
+  importBlendShapes: 1
+  importSkinning: 1
